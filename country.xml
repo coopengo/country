@@ -27,10 +27,8 @@ this repository contains the full copyright notices and license terms. -->
             <field name="view" ref="country_view_form"/>
             <field name="act_window" ref="act_country_form"/>
         </record>
-        <menuitem parent="ir.menu_administration" action="act_country_form"
-            id="menu_country_form"/>
-        <record model="ir.ui.menu-res.group"
-            id="menu_country_form_group_admin">
+        <menuitem parent="ir.menu_administration" action="act_country_form" id="menu_country_form"/>
+        <record model="ir.ui.menu-res.group" id="menu_country_form_group_admin">
             <field name="menu" ref="menu_country_form"/>
             <field name="group" ref="res.group_admin"/>
         </record>
@@ -60,8 +58,7 @@ this repository contains the full copyright notices and license terms. -->
         <record model="ir.action.act_window" id="act_zip_form">
             <field name="name">Zip</field>
             <field name="res_model">country.zip</field>
-            <field name="domain"
-                eval="[('country', 'in', Eval('active_ids'))]" pyson="1"/>
+            <field name="domain" eval="[('country', 'in', Eval('active_ids'))]" pyson="1"/>
         </record>
         <record model="ir.action.act_window.view" id="act_zip_form_view1">
             <field name="sequence" eval="10"/>
@@ -73,8 +70,7 @@ this repository contains the full copyright notices and license terms. -->
             <field name="view" ref="zip_view_form"/>
             <field name="act_window" ref="act_zip_form"/>
         </record>
-        <record model="ir.action.keyword"
-                id="act_zip_form_keyword1">
+        <record model="ir.action.keyword" id="act_zip_form_keyword1">
             <field name="keyword">form_relate</field>
             <field name="model">country.country,-1</field>
             <field name="action" ref="act_zip_form"/>
@@ -90,43 +86,60 @@ this repository contains the full copyright notices and license terms. -->
         <record model="country.country" id="be">
             <field name="name">Belgium</field>
             <field name="code">BE</field>
+            <field name="code3">BEL</field>
+            <field name="code_numeric">056</field>
         </record>
 
         <record model="country.country" id="fr">
             <field name="name">France</field>
             <field name="code">FR</field>
+            <field name="code3">FRA</field>
+            <field name="code_numeric">250</field>
         </record>
 
         <record model="country.country" id="it">
             <field name="name">Italy</field>
             <field name="code">IT</field>
+            <field name="code3">ITA</field>
+            <field name="code_numeric">380</field>
         </record>
 
         <record model="country.country" id="mc">
             <field name="name">Monaco</field>
             <field name="code">MC</field>
+            <field name="code3">MCO</field>
+            <field name="code_numeric">492</field>
         </record>
 
         <record model="country.country" id="es">
             <field name="name">Spain</field>
             <field name="code">ES</field>
+            <field name="code3">ESP</field>
+            <field name="code_numeric">724</field>
         </record>
 
         <record model="country.country" id="ch">
             <field name="name">Switzerland</field>
             <field name="code">CH</field>
+            <field name="code3">CHE</field>
+            <field name="code_numeric">756</field>
         </record>
 
         <record model="country.country" id="gb">
             <field name="name">United Kingdom</field>
             <field name="code">GB</field>
+            <field name="code3">GBR</field>
+            <field name="code_numeric">826</field>
         </record>
 
         <record model="country.country" id="us">
             <field name="name">United States</field>
             <field name="code">US</field>
+            <field name="code3">USA</field>
+            <field name="code_numeric">840</field>
         </record>
-    </data>
+
+        </data>
     <data skiptest="1" grouped="1">
 
         <record model="country.subdivision" id="be-bru">
@@ -3026,7 +3039,8 @@ this repository contains the full copyright notices and license terms. -->
             <field name="type">outlying area</field>
             <field name="country" ref="us"/>
         </record>
-    </data>
+
+        </data>
     <data skiptest="1" grouped="1">
 
         <record model="country.subdivision" id="be-van">
@@ -5157,7 +5171,7 @@ this repository contains the full copyright notices and license terms. -->
             <field name="country" ref="it"/>
         </record>
 
-    </data>
+        </data>
     <!--
     End of Output of scripts/countries.py
     -->
