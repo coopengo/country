@@ -12,7 +12,7 @@ msgstr "Codice"
 
 msgctxt "field:country.country,code_numeric:"
 msgid "Numeric Code"
-msgstr ""
+msgstr "Codice numerico"
 
 #, fuzzy
 msgctxt "field:country.country,create_date:"
@@ -24,24 +24,22 @@ msgctxt "field:country.country,create_uid:"
 msgid "Create User"
 msgstr "Creazione Utente"
 
-#, fuzzy
 msgctxt "field:country.country,id:"
 msgid "ID"
 msgstr "ID"
 
-#, fuzzy
 msgctxt "field:country.country,name:"
 msgid "Name"
 msgstr "Nome"
 
-#, fuzzy
 msgctxt "field:country.country,rec_name:"
 msgid "Name"
 msgstr "Nome"
 
+#, fuzzy
 msgctxt "field:country.country,subdivisions:"
 msgid "Subdivisions"
-msgstr ""
+msgstr "Divisione"
 
 #, fuzzy
 msgctxt "field:country.country,write_date:"
@@ -71,12 +69,10 @@ msgctxt "field:country.subdivision,create_uid:"
 msgid "Create User"
 msgstr "Creazione Utente"
 
-#, fuzzy
 msgctxt "field:country.subdivision,id:"
 msgid "ID"
 msgstr "ID"
 
-#, fuzzy
 msgctxt "field:country.subdivision,name:"
 msgid "Name"
 msgstr "Nome"
@@ -86,12 +82,10 @@ msgctxt "field:country.subdivision,parent:"
 msgid "Parent"
 msgstr "Parte"
 
-#, fuzzy
 msgctxt "field:country.subdivision,rec_name:"
 msgid "Name"
 msgstr "Nome"
 
-#, fuzzy
 msgctxt "field:country.subdivision,type:"
 msgid "Type"
 msgstr "Tipo"
@@ -106,7 +100,6 @@ msgctxt "field:country.subdivision,write_uid:"
 msgid "Write User"
 msgstr "Scrivente"
 
-#, fuzzy
 msgctxt "field:country.zip,city:"
 msgid "City"
 msgstr "Città"
@@ -125,19 +118,18 @@ msgctxt "field:country.zip,create_uid:"
 msgid "Create User"
 msgstr "Creazione Utente"
 
-#, fuzzy
 msgctxt "field:country.zip,id:"
 msgid "ID"
 msgstr "ID"
 
-#, fuzzy
 msgctxt "field:country.zip,rec_name:"
 msgid "Name"
 msgstr "Nome"
 
+#, fuzzy
 msgctxt "field:country.zip,subdivision:"
 msgid "Subdivision"
-msgstr ""
+msgstr "Divisione"
 
 #, fuzzy
 msgctxt "field:country.zip,write_date:"
@@ -149,7 +141,6 @@ msgctxt "field:country.zip,write_uid:"
 msgid "Write User"
 msgstr "Scrivente"
 
-#, fuzzy
 msgctxt "field:country.zip,zip:"
 msgid "Zip"
 msgstr "Zip"
@@ -214,9 +205,10 @@ msgctxt "model:country.country,name:us"
 msgid "United States"
 msgstr "Stati Uniti"
 
+#, fuzzy
 msgctxt "model:country.subdivision,name:"
 msgid "Subdivision"
-msgstr ""
+msgstr "Divisione"
 
 msgctxt "model:country.subdivision,name:be-bru"
 msgid "Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest"
@@ -2938,7 +2930,6 @@ msgctxt "model:country.subdivision,name:us-wy"
 msgid "Wyoming"
 msgstr "Wyoming"
 
-#, fuzzy
 msgctxt "model:country.zip,name:"
 msgid "Zip"
 msgstr "Zip"
@@ -2947,7 +2938,6 @@ msgctxt "model:ir.action,name:act_country_form"
 msgid "Countries"
 msgstr "Paesi"
 
-#, fuzzy
 msgctxt "model:ir.action,name:act_zip_form"
 msgid "Zip"
 msgstr "Zip"
@@ -2956,7 +2946,6 @@ msgctxt "model:ir.ui.menu,name:menu_country_form"
 msgid "Countries"
 msgstr "Paesi"
 
-#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Administration"
 msgstr "Amministrazione"
@@ -3074,7 +3063,6 @@ msgctxt "selection:country.subdivision,type:"
 msgid "Chains (of islands)"
 msgstr ""
 
-#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "City"
 msgstr "Città"
@@ -3373,13 +3361,10 @@ msgctxt "view:country.country:"
 msgid "Country"
 msgstr "Paese"
 
+#, fuzzy
 msgctxt "view:country.subdivision:"
 msgid "Subdivision"
-msgstr ""
-
-msgctxt "view:country.subdivision:"
-msgid "Subdivisions"
-msgstr ""
+msgstr "Divisione"
 
 #, fuzzy
 msgctxt "view:country.zip:"

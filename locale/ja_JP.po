@@ -55,7 +55,7 @@ msgstr ""
 #, fuzzy
 msgctxt "field:country.subdivision,country:"
 msgid "Country"
-msgstr "コヴェントリー"
+msgstr "Coventry"
 
 msgctxt "field:country.subdivision,create_date:"
 msgid "Create Date"
@@ -102,7 +102,7 @@ msgstr ""
 #, fuzzy
 msgctxt "field:country.zip,country:"
 msgid "Country"
-msgstr "コヴェントリー"
+msgstr "Coventry"
 
 msgctxt "field:country.zip,create_date:"
 msgid "Create Date"
@@ -133,9 +133,10 @@ msgctxt "field:country.zip,write_uid:"
 msgid "Write User"
 msgstr ""
 
+#, fuzzy
 msgctxt "field:country.zip,zip:"
 msgid "Zip"
-msgstr ""
+msgstr "Zip"
 
 msgctxt "help:country.country,code3:"
 msgid ""
@@ -162,39 +163,39 @@ msgstr ""
 #, fuzzy
 msgctxt "model:country.country,name:"
 msgid "Country"
-msgstr "コヴェントリー"
+msgstr "Coventry"
 
 msgctxt "model:country.country,name:be"
 msgid "Belgium"
-msgstr "ベルギー"
+msgstr "Belgium"
 
 msgctxt "model:country.country,name:ch"
 msgid "Switzerland"
-msgstr "スイス"
+msgstr "Switzerland"
 
 msgctxt "model:country.country,name:es"
 msgid "Spain"
-msgstr "スペイン"
+msgstr "Spain"
 
 msgctxt "model:country.country,name:fr"
 msgid "France"
-msgstr "フランス"
+msgstr "France"
 
 msgctxt "model:country.country,name:gb"
 msgid "United Kingdom"
-msgstr "英国"
+msgstr "United Kingdom"
 
 msgctxt "model:country.country,name:it"
 msgid "Italy"
-msgstr "イタリア"
+msgstr "Italy"
 
 msgctxt "model:country.country,name:mc"
 msgid "Monaco"
-msgstr "モナコ"
+msgstr "Monaco"
 
 msgctxt "model:country.country,name:us"
 msgid "United States"
-msgstr "米国"
+msgstr "United States"
 
 msgctxt "model:country.subdivision,name:"
 msgid "Subdivision"
@@ -206,11 +207,11 @@ msgstr "Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest"
 
 msgctxt "model:country.subdivision,name:be-van"
 msgid "Antwerpen"
-msgstr "アントワープ"
+msgstr "Antwerpen"
 
 msgctxt "model:country.subdivision,name:be-vbr"
 msgid "Vlaams-Brabant"
-msgstr "フラームスブラバント"
+msgstr "Vlaams-Brabant"
 
 msgctxt "model:country.subdivision,name:be-vlg"
 msgid "Vlaams Gewest"
@@ -218,91 +219,91 @@ msgstr "Vlaams Gewest"
 
 msgctxt "model:country.subdivision,name:be-vli"
 msgid "Limburg"
-msgstr "リンブルフ"
+msgstr "Limburg"
 
 msgctxt "model:country.subdivision,name:be-vov"
 msgid "Oost-Vlaanderen"
-msgstr "オーストフラーンデレン"
+msgstr "Oost-Vlaanderen"
 
 msgctxt "model:country.subdivision,name:be-vwv"
 msgid "West-Vlaanderen"
-msgstr "ウエストフラーンデレン"
+msgstr "West-Vlaanderen"
 
 msgctxt "model:country.subdivision,name:be-wal"
 msgid "wallonne, Région"
-msgstr "ワロン"
+msgstr "wallonne, Région"
 
 msgctxt "model:country.subdivision,name:be-wbr"
 msgid "Brabant wallon"
-msgstr "ブラバントワロン"
+msgstr "Brabant wallon"
 
 msgctxt "model:country.subdivision,name:be-wht"
 msgid "Hainaut"
-msgstr "エノー"
+msgstr "Hainaut"
 
 msgctxt "model:country.subdivision,name:be-wlg"
 msgid "Liège"
-msgstr "リエージュ"
+msgstr "Liège"
 
 msgctxt "model:country.subdivision,name:be-wlx"
 msgid "Luxembourg"
-msgstr "ルクセンブルク"
+msgstr "Luxembourg"
 
 msgctxt "model:country.subdivision,name:be-wna"
 msgid "Namur"
-msgstr "ナミュール"
+msgstr "Namur"
 
 msgctxt "model:country.subdivision,name:ch-ag"
 msgid "Aargau"
-msgstr "アールガウ"
+msgstr "Aargau"
 
 msgctxt "model:country.subdivision,name:ch-ai"
 msgid "Appenzell Innerrhoden"
-msgstr "アペンツェルインナーローデン"
+msgstr "Appenzell Innerrhoden"
 
 msgctxt "model:country.subdivision,name:ch-ar"
 msgid "Appenzell Ausserrhoden"
-msgstr "アペンツェルアウサーローデン"
+msgstr "Appenzell Ausserrhoden"
 
 msgctxt "model:country.subdivision,name:ch-be"
 msgid "Bern"
-msgstr "ベルン"
+msgstr "Bern"
 
 msgctxt "model:country.subdivision,name:ch-bl"
 msgid "Basel-Landschaft"
-msgstr "バーゼルランドシャフト"
+msgstr "Basel-Landschaft"
 
 msgctxt "model:country.subdivision,name:ch-bs"
 msgid "Basel-Stadt"
-msgstr "バーゼルシュタット"
+msgstr "Basel-Stadt"
 
 msgctxt "model:country.subdivision,name:ch-fr"
 msgid "Fribourg"
-msgstr "フリプール"
+msgstr "Fribourg"
 
 msgctxt "model:country.subdivision,name:ch-ge"
 msgid "Genève"
-msgstr "ジュネーブ"
+msgstr "Genève"
 
 msgctxt "model:country.subdivision,name:ch-gl"
 msgid "Glarus"
-msgstr "グラールス"
+msgstr "Glarus"
 
 msgctxt "model:country.subdivision,name:ch-gr"
 msgid "Graubünden"
-msgstr "グラウビュンデン"
+msgstr "Graubünden"
 
 msgctxt "model:country.subdivision,name:ch-ju"
 msgid "Jura"
-msgstr "ジュラ"
+msgstr "Jura"
 
 msgctxt "model:country.subdivision,name:ch-lu"
 msgid "Luzern"
-msgstr "ルツェルン"
+msgstr "Luzern"
 
 msgctxt "model:country.subdivision,name:ch-ne"
 msgid "Neuchâtel"
-msgstr "ヌシャテル"
+msgstr "Neuchâtel"
 
 msgctxt "model:country.subdivision,name:ch-nw"
 msgid "Nidwalden"
@@ -310,23 +311,23 @@ msgstr "Nidwalden"
 
 msgctxt "model:country.subdivision,name:ch-ow"
 msgid "Obwalden"
-msgstr "オブワルデン"
+msgstr "Obwalden"
 
 msgctxt "model:country.subdivision,name:ch-sg"
 msgid "Sankt Gallen"
-msgstr "ザンクトガレン"
+msgstr "Sankt Gallen"
 
 msgctxt "model:country.subdivision,name:ch-sh"
 msgid "Schaffhausen"
-msgstr "シャフハウゼン"
+msgstr "Schaffhausen"
 
 msgctxt "model:country.subdivision,name:ch-so"
 msgid "Solothurn"
-msgstr "ソーロトゥルン"
+msgstr "Solothurn"
 
 msgctxt "model:country.subdivision,name:ch-sz"
 msgid "Schwyz"
-msgstr "シュウィーツ"
+msgstr "Schwyz"
 
 msgctxt "model:country.subdivision,name:ch-tg"
 msgid "Thurgau"
@@ -334,63 +335,63 @@ msgstr "Thurgau"
 
 msgctxt "model:country.subdivision,name:ch-ti"
 msgid "Ticino"
-msgstr "ティチーノ"
+msgstr "Ticino"
 
 msgctxt "model:country.subdivision,name:ch-ur"
 msgid "Uri"
-msgstr "ウーリ"
+msgstr "Uri"
 
 msgctxt "model:country.subdivision,name:ch-vd"
 msgid "Vaud"
-msgstr "ボー"
+msgstr "Vaud"
 
 msgctxt "model:country.subdivision,name:ch-vs"
 msgid "Valais"
-msgstr "バレ"
+msgstr "Valais"
 
 msgctxt "model:country.subdivision,name:ch-zg"
 msgid "Zug"
-msgstr "ツーク"
+msgstr "Zug"
 
 msgctxt "model:country.subdivision,name:ch-zh"
 msgid "Zürich"
-msgstr "チューリヒ"
+msgstr "Zürich"
 
 msgctxt "model:country.subdivision,name:es-a"
 msgid "Alicante"
-msgstr "アリカンテ"
+msgstr "Alicante"
 
 msgctxt "model:country.subdivision,name:es-ab"
 msgid "Albacete"
-msgstr "アルバセテ"
+msgstr "Albacete"
 
 msgctxt "model:country.subdivision,name:es-al"
 msgid "Almería"
-msgstr "アルメリア"
+msgstr "Almería"
 
 msgctxt "model:country.subdivision,name:es-an"
 msgid "Andalucía"
-msgstr "アンダルシア"
+msgstr "Andalucía"
 
 msgctxt "model:country.subdivision,name:es-ar"
 msgid "Aragón"
-msgstr "アラゴン"
+msgstr "Aragón"
 
 msgctxt "model:country.subdivision,name:es-as"
 msgid "Asturias, Principado de"
-msgstr "アストゥリアス"
+msgstr "Asturias, Principado de"
 
 msgctxt "model:country.subdivision,name:es-av"
 msgid "Ávila"
-msgstr "アビラ"
+msgstr "Ávila"
 
 msgctxt "model:country.subdivision,name:es-b"
 msgid "Barcelona"
-msgstr "バルセロナ"
+msgstr "Barcelona"
 
 msgctxt "model:country.subdivision,name:es-ba"
 msgid "Badajoz"
-msgstr "バダホス"
+msgstr "Badajoz"
 
 msgctxt "model:country.subdivision,name:es-bi"
 msgid "Vizcayaa / Bizkaia"
@@ -398,7 +399,7 @@ msgstr "Vizcayaa / Bizkaia"
 
 msgctxt "model:country.subdivision,name:es-bu"
 msgid "Burgos"
-msgstr "ブルゴス"
+msgstr "Burgos"
 
 msgctxt "model:country.subdivision,name:es-c"
 msgid "A Coruña"
@@ -406,83 +407,83 @@ msgstr "A Coruña"
 
 msgctxt "model:country.subdivision,name:es-ca"
 msgid "Cádiz"
-msgstr "カディス"
+msgstr "Cádiz"
 
 msgctxt "model:country.subdivision,name:es-cb"
 msgid "Cantabria"
-msgstr "カンタブリア"
+msgstr "Cantabria"
 
 msgctxt "model:country.subdivision,name:es-cc"
 msgid "Cáceres"
-msgstr "カセレス"
+msgstr "Cáceres"
 
 msgctxt "model:country.subdivision,name:es-ce"
 msgid "Ceuta"
-msgstr "セウタ"
+msgstr "Ceuta"
 
 msgctxt "model:country.subdivision,name:es-cl"
 msgid "Castilla y León"
-msgstr "カスティーリャレオン"
+msgstr "Castilla y León"
 
 msgctxt "model:country.subdivision,name:es-cm"
 msgid "Castilla-La Mancha"
-msgstr "カスティーリャラマンチャ"
+msgstr "Castilla-La Mancha"
 
 msgctxt "model:country.subdivision,name:es-cn"
 msgid "Canarias"
-msgstr "カナリア"
+msgstr "Canarias"
 
 msgctxt "model:country.subdivision,name:es-co"
 msgid "Córdoba"
-msgstr "コルドバ"
+msgstr "Córdoba"
 
 msgctxt "model:country.subdivision,name:es-cr"
 msgid "Ciudad Real"
-msgstr "シウダーレアル"
+msgstr "Ciudad Real"
 
 msgctxt "model:country.subdivision,name:es-cs"
 msgid "Castellón"
-msgstr "カステリョン"
+msgstr "Castellón"
 
 msgctxt "model:country.subdivision,name:es-ct"
 msgid "Catalunya"
-msgstr "カタルーニャ"
+msgstr "Catalunya"
 
 msgctxt "model:country.subdivision,name:es-cu"
 msgid "Cuenca"
-msgstr "クエンカ"
+msgstr "Cuenca"
 
 msgctxt "model:country.subdivision,name:es-ex"
 msgid "Extremadura"
-msgstr "エストレマドゥーラ"
+msgstr "Extremadura"
 
 msgctxt "model:country.subdivision,name:es-ga"
 msgid "Galicia"
-msgstr "ガリシア"
+msgstr "Galicia"
 
 msgctxt "model:country.subdivision,name:es-gc"
 msgid "Las Palmas"
-msgstr "ラスパルマス"
+msgstr "Las Palmas"
 
 msgctxt "model:country.subdivision,name:es-gi"
 msgid "Girona"
-msgstr "ヘローナ"
+msgstr "Girona"
 
 msgctxt "model:country.subdivision,name:es-gr"
 msgid "Granada"
-msgstr "グラナダ"
+msgstr "Granada"
 
 msgctxt "model:country.subdivision,name:es-gu"
 msgid "Guadalajara"
-msgstr "グアダラハラ"
+msgstr "Guadalajara"
 
 msgctxt "model:country.subdivision,name:es-h"
 msgid "Huelva"
-msgstr "ウエルバ"
+msgstr "Huelva"
 
 msgctxt "model:country.subdivision,name:es-hu"
 msgid "Huesca"
-msgstr "ウエスカ"
+msgstr "Huesca"
 
 msgctxt "model:country.subdivision,name:es-ib"
 msgid "Illes Balears"
@@ -490,103 +491,103 @@ msgstr "Illes Balears"
 
 msgctxt "model:country.subdivision,name:es-j"
 msgid "Jaén"
-msgstr "ハエン"
+msgstr "Jaén"
 
 msgctxt "model:country.subdivision,name:es-l"
 msgid "Lleida"
-msgstr "レリダ"
+msgstr "Lleida"
 
 msgctxt "model:country.subdivision,name:es-le"
 msgid "León"
-msgstr "レオン"
+msgstr "León"
 
 msgctxt "model:country.subdivision,name:es-lo"
 msgid "La Rioja"
-msgstr "ラリオハ"
+msgstr "La Rioja"
 
 msgctxt "model:country.subdivision,name:es-lu"
 msgid "Lugo"
-msgstr "ルーゴ"
+msgstr "Lugo"
 
 msgctxt "model:country.subdivision,name:es-m"
 msgid "Madrid"
-msgstr "マドリード"
+msgstr "Madrid"
 
 msgctxt "model:country.subdivision,name:es-ma"
 msgid "Málaga"
-msgstr "マラガ"
+msgstr "Málaga"
 
 msgctxt "model:country.subdivision,name:es-mc"
 msgid "Murcia, Región de"
-msgstr "ムルシア"
+msgstr "Murcia, Región de"
 
 msgctxt "model:country.subdivision,name:es-md"
 msgid "Madrid, Comunidad de"
-msgstr "マドリード州"
+msgstr "Madrid, Comunidad de"
 
 msgctxt "model:country.subdivision,name:es-ml"
 msgid "Melilla"
-msgstr "メリリヤ"
+msgstr "Melilla"
 
 msgctxt "model:country.subdivision,name:es-mu"
 msgid "Murcia"
-msgstr "ムルシア"
+msgstr "Murcia"
 
 msgctxt "model:country.subdivision,name:es-na"
 msgid "Navarra / Nafarroa"
-msgstr "ナバーラ"
+msgstr "Navarra / Nafarroa"
 
 msgctxt "model:country.subdivision,name:es-nc"
 msgid "Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea"
-msgstr "ナバーラ"
+msgstr "Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea"
 
 msgctxt "model:country.subdivision,name:es-o"
 msgid "Asturias"
-msgstr "アストゥリアス"
+msgstr "Asturias"
 
 msgctxt "model:country.subdivision,name:es-or"
 msgid "Ourense"
-msgstr "オレンセ"
+msgstr "Ourense"
 
 msgctxt "model:country.subdivision,name:es-p"
 msgid "Palencia"
-msgstr "パレンシア"
+msgstr "Palencia"
 
 msgctxt "model:country.subdivision,name:es-pm"
 msgid "Balears"
-msgstr "バレアレス"
+msgstr "Balears"
 
 msgctxt "model:country.subdivision,name:es-po"
 msgid "Pontevedra"
-msgstr "ポンテベドラ"
+msgstr "Pontevedra"
 
 msgctxt "model:country.subdivision,name:es-pv"
 msgid "País Vasco / Euskal Herria"
-msgstr "バスク"
+msgstr "País Vasco / Euskal Herria"
 
 msgctxt "model:country.subdivision,name:es-ri"
 msgid "La Rioja"
-msgstr "ラリオハ"
+msgstr "La Rioja"
 
 msgctxt "model:country.subdivision,name:es-s"
 msgid "Cantabria"
-msgstr "カンタブリア"
+msgstr "Cantabria"
 
 msgctxt "model:country.subdivision,name:es-sa"
 msgid "Salamanca"
-msgstr "サラマンカ"
+msgstr "Salamanca"
 
 msgctxt "model:country.subdivision,name:es-se"
 msgid "Sevilla"
-msgstr "セビーリャ"
+msgstr "Sevilla"
 
 msgctxt "model:country.subdivision,name:es-sg"
 msgid "Segovia"
-msgstr "セゴビア"
+msgstr "Segovia"
 
 msgctxt "model:country.subdivision,name:es-so"
 msgid "Soria"
-msgstr "ソリア"
+msgstr "Soria"
 
 msgctxt "model:country.subdivision,name:es-ss"
 msgid "Guipúzcoa / Gipuzkoa"
@@ -594,31 +595,31 @@ msgstr "Guipúzcoa / Gipuzkoa"
 
 msgctxt "model:country.subdivision,name:es-t"
 msgid "Tarragona"
-msgstr "タラゴーナ"
+msgstr "Tarragona"
 
 msgctxt "model:country.subdivision,name:es-te"
 msgid "Teruel"
-msgstr "テルエル"
+msgstr "Teruel"
 
 msgctxt "model:country.subdivision,name:es-tf"
 msgid "Santa Cruz de Tenerife"
-msgstr "サンタクルス・デ・テネリフェ"
+msgstr "Santa Cruz de Tenerife"
 
 msgctxt "model:country.subdivision,name:es-to"
 msgid "Toledo"
-msgstr "トレド"
+msgstr "Toledo"
 
 msgctxt "model:country.subdivision,name:es-v"
 msgid "Valencia / València"
-msgstr "バレンシア"
+msgstr "Valencia / València"
 
 msgctxt "model:country.subdivision,name:es-va"
 msgid "Valladolid"
-msgstr "バリャドリード"
+msgstr "Valladolid"
 
 msgctxt "model:country.subdivision,name:es-vc"
 msgid "Valenciana, Comunidad / Valenciana, Comunitat "
-msgstr "バレンシア"
+msgstr "Valenciana, Comunidad / Valenciana, Comunitat "
 
 msgctxt "model:country.subdivision,name:es-vi"
 msgid "Álava"
@@ -626,11 +627,11 @@ msgstr "Álava"
 
 msgctxt "model:country.subdivision,name:es-z"
 msgid "Zaragoza"
-msgstr "サラゴーサ"
+msgstr "Zaragoza"
 
 msgctxt "model:country.subdivision,name:es-za"
 msgid "Zamora"
-msgstr "サモラ"
+msgstr "Zamora"
 
 msgctxt "model:country.subdivision,name:fr-01"
 msgid "Ain"
@@ -790,7 +791,7 @@ msgstr "Isère"
 
 msgctxt "model:country.subdivision,name:fr-39"
 msgid "Jura"
-msgstr "ジュラ"
+msgstr "Jura"
 
 msgctxt "model:country.subdivision,name:fr-40"
 msgid "Landes"
@@ -934,7 +935,7 @@ msgstr "Haute-Savoie"
 
 msgctxt "model:country.subdivision,name:fr-75"
 msgid "Paris"
-msgstr "パリ"
+msgstr "Paris"
 
 msgctxt "model:country.subdivision,name:fr-76"
 msgid "Seine-Maritime"
@@ -1018,11 +1019,11 @@ msgstr "Val d'Oise"
 
 msgctxt "model:country.subdivision,name:fr-a"
 msgid "Alsace"
-msgstr "アルザス"
+msgstr "Alsace"
 
 msgctxt "model:country.subdivision,name:fr-b"
 msgid "Aquitaine"
-msgstr "アキテーヌ"
+msgstr "Aquitaine"
 
 msgctxt "model:country.subdivision,name:fr-bl"
 msgid "Saint-Barthélemy"
@@ -1030,7 +1031,7 @@ msgstr "Saint-Barthélemy"
 
 msgctxt "model:country.subdivision,name:fr-c"
 msgid "Auvergne"
-msgstr "オーベルニュ"
+msgstr "Auvergne"
 
 msgctxt "model:country.subdivision,name:fr-cp"
 msgid "Clipperton"
@@ -1038,11 +1039,11 @@ msgstr "Clipperton"
 
 msgctxt "model:country.subdivision,name:fr-d"
 msgid "Bourgogne"
-msgstr "ブルゴーニュ"
+msgstr "Bourgogne"
 
 msgctxt "model:country.subdivision,name:fr-e"
 msgid "Bretagne"
-msgstr "ブルターニュ"
+msgstr "Bretagne"
 
 msgctxt "model:country.subdivision,name:fr-f"
 msgid "Centre"
@@ -1050,39 +1051,39 @@ msgstr "Centre"
 
 msgctxt "model:country.subdivision,name:fr-g"
 msgid "Champagne-Ardenne"
-msgstr "シャンパーニュ=アルデンヌ"
+msgstr "Champagne-Ardenne"
 
 msgctxt "model:country.subdivision,name:fr-gf"
 msgid "Guyane"
-msgstr "ギアナ"
+msgstr "Guyane"
 
 msgctxt "model:country.subdivision,name:fr-gp"
 msgid "Guadeloupe"
-msgstr "グアドループ"
+msgstr "Guadeloupe"
 
 msgctxt "model:country.subdivision,name:fr-h"
 msgid "Corse"
-msgstr "コルス (コルシカ)"
+msgstr "Corse"
 
 msgctxt "model:country.subdivision,name:fr-i"
 msgid "Franche-Comté"
-msgstr "フランシュコンテ"
+msgstr "Franche-Comté"
 
 msgctxt "model:country.subdivision,name:fr-j"
 msgid "Île-de-France"
-msgstr "イルドフランス"
+msgstr "Île-de-France"
 
 msgctxt "model:country.subdivision,name:fr-k"
 msgid "Languedoc-Roussillon"
-msgstr "ラングドック=ルション"
+msgstr "Languedoc-Roussillon"
 
 msgctxt "model:country.subdivision,name:fr-l"
 msgid "Limousin"
-msgstr "リムーザン"
+msgstr "Limousin"
 
 msgctxt "model:country.subdivision,name:fr-m"
 msgid "Lorraine"
-msgstr "ロレーヌ"
+msgstr "Lorraine"
 
 msgctxt "model:country.subdivision,name:fr-mf"
 msgid "Saint-Martin"
@@ -1090,11 +1091,11 @@ msgstr "Saint-Martin"
 
 msgctxt "model:country.subdivision,name:fr-mq"
 msgid "Martinique"
-msgstr "マルティニーク"
+msgstr "Martinique"
 
 msgctxt "model:country.subdivision,name:fr-n"
 msgid "Midi-Pyrénées"
-msgstr "ミディ=ピレネー"
+msgstr "Midi-Pyrénées"
 
 msgctxt "model:country.subdivision,name:fr-nc"
 msgid "Nouvelle-Calédonie"
@@ -1102,11 +1103,11 @@ msgstr "Nouvelle-Calédonie"
 
 msgctxt "model:country.subdivision,name:fr-o"
 msgid "Nord - Pas-de-Calais"
-msgstr "ノール=パドカレー"
+msgstr "Nord - Pas-de-Calais"
 
 msgctxt "model:country.subdivision,name:fr-p"
 msgid "Basse-Normandie"
-msgstr "バスノルマンディー"
+msgstr "Basse-Normandie"
 
 msgctxt "model:country.subdivision,name:fr-pf"
 msgid "Polynésie française"
@@ -1118,23 +1119,23 @@ msgstr "Saint-Pierre-et-Miquelon"
 
 msgctxt "model:country.subdivision,name:fr-q"
 msgid "Haute-Normandie"
-msgstr "オートノルマンディー"
+msgstr "Haute-Normandie"
 
 msgctxt "model:country.subdivision,name:fr-r"
 msgid "Pays de la Loire"
-msgstr "ペイドラロワール"
+msgstr "Pays de la Loire"
 
 msgctxt "model:country.subdivision,name:fr-re"
 msgid "Réunion"
-msgstr "レユニオン"
+msgstr "Réunion"
 
 msgctxt "model:country.subdivision,name:fr-s"
 msgid "Picardie"
-msgstr "ピカルディー"
+msgstr "Picardie"
 
 msgctxt "model:country.subdivision,name:fr-t"
 msgid "Poitou-Charentes"
-msgstr "ポアトゥーシャラント"
+msgstr "Poitou-Charentes"
 
 msgctxt "model:country.subdivision,name:fr-tf"
 msgid "Terres australes françaises"
@@ -1142,11 +1143,11 @@ msgstr "Terres australes françaises"
 
 msgctxt "model:country.subdivision,name:fr-u"
 msgid "Provence-Alpes-Côte d'Azur"
-msgstr "プロヴァンス=アルプ=コートダジュール"
+msgstr "Provence-Alpes-Côte d'Azur"
 
 msgctxt "model:country.subdivision,name:fr-v"
 msgid "Rhône-Alpes"
-msgstr "ローヌ=アルプ"
+msgstr "Rhône-Alpes"
 
 msgctxt "model:country.subdivision,name:fr-wf"
 msgid "Wallis-et-Futuna"
@@ -1158,15 +1159,15 @@ msgstr "Mayotte"
 
 msgctxt "model:country.subdivision,name:gb-abd"
 msgid "Aberdeenshire"
-msgstr "アバディーンシア"
+msgstr "Aberdeenshire"
 
 msgctxt "model:country.subdivision,name:gb-abe"
 msgid "Aberdeen City"
-msgstr "アバディーン"
+msgstr "Aberdeen City"
 
 msgctxt "model:country.subdivision,name:gb-agb"
 msgid "Argyll and Bute"
-msgstr "アーガイル及びビュート"
+msgstr "Argyll and Bute"
 
 msgctxt "model:country.subdivision,name:gb-agy"
 msgid "Isle of Anglesey;Sir Ynys Môn"
@@ -1174,7 +1175,7 @@ msgstr "Isle of Anglesey;Sir Ynys Môn"
 
 msgctxt "model:country.subdivision,name:gb-ans"
 msgid "Angus"
-msgstr "アンガス"
+msgstr "Angus"
 
 msgctxt "model:country.subdivision,name:gb-ant"
 msgid "Antrim"
@@ -1182,39 +1183,39 @@ msgstr "Antrim"
 
 msgctxt "model:country.subdivision,name:gb-ard"
 msgid "Ards"
-msgstr "アーズ"
+msgstr "Ards"
 
 msgctxt "model:country.subdivision,name:gb-arm"
 msgid "Armagh"
-msgstr "アーマ"
+msgstr "Armagh"
 
 msgctxt "model:country.subdivision,name:gb-bas"
 msgid "Bath and North East Somerset"
-msgstr "バス及び北西サマセット"
+msgstr "Bath and North East Somerset"
 
 msgctxt "model:country.subdivision,name:gb-bbd"
 msgid "Blackburn with Darwen"
-msgstr "ブラックバーン with ダーウェン"
+msgstr "Blackburn with Darwen"
 
 msgctxt "model:country.subdivision,name:gb-bdf"
 msgid "Bedford"
-msgstr "ベッドフォード"
+msgstr "Bedford"
 
 msgctxt "model:country.subdivision,name:gb-bdg"
 msgid "Barking and Dagenham"
-msgstr "バーキング及びダゲナム"
+msgstr "Barking and Dagenham"
 
 msgctxt "model:country.subdivision,name:gb-ben"
 msgid "Brent"
-msgstr "ブレント"
+msgstr "Brent"
 
 msgctxt "model:country.subdivision,name:gb-bex"
 msgid "Bexley"
-msgstr "ベクスリー"
+msgstr "Bexley"
 
 msgctxt "model:country.subdivision,name:gb-bfs"
 msgid "Belfast"
-msgstr "ベルファスト"
+msgstr "Belfast"
 
 msgctxt "model:country.subdivision,name:gb-bge"
 msgid "Bridgend;Pen-y-bont ar Ogwr"
@@ -1222,75 +1223,75 @@ msgstr "Bridgend;Pen-y-bont ar Ogwr"
 
 msgctxt "model:country.subdivision,name:gb-bgw"
 msgid "Blaenau Gwent"
-msgstr "ブレナウ グウェント"
+msgstr "Blaenau Gwent"
 
 msgctxt "model:country.subdivision,name:gb-bir"
 msgid "Birmingham"
-msgstr "バーミンガム"
+msgstr "Birmingham"
 
 msgctxt "model:country.subdivision,name:gb-bkm"
 msgid "Buckinghamshire"
-msgstr "バッキンガムシャー"
+msgstr "Buckinghamshire"
 
 msgctxt "model:country.subdivision,name:gb-bla"
 msgid "Ballymena"
-msgstr "バリミーナ"
+msgstr "Ballymena"
 
 msgctxt "model:country.subdivision,name:gb-bly"
 msgid "Ballymoney"
-msgstr "バリマニー"
+msgstr "Ballymoney"
 
 msgctxt "model:country.subdivision,name:gb-bmh"
 msgid "Bournemouth"
-msgstr "ボーンマス"
+msgstr "Bournemouth"
 
 msgctxt "model:country.subdivision,name:gb-bnb"
 msgid "Banbridge"
-msgstr "バンブリッジ"
+msgstr "Banbridge"
 
 msgctxt "model:country.subdivision,name:gb-bne"
 msgid "Barnet"
-msgstr "バーネット"
+msgstr "Barnet"
 
 msgctxt "model:country.subdivision,name:gb-bnh"
 msgid "Brighton and Hove"
-msgstr "ブリントンアンドホーブ"
+msgstr "Brighton and Hove"
 
 msgctxt "model:country.subdivision,name:gb-bns"
 msgid "Barnsley"
-msgstr "バーンズリー"
+msgstr "Barnsley"
 
 msgctxt "model:country.subdivision,name:gb-bol"
 msgid "Bolton"
-msgstr "ボールトン"
+msgstr "Bolton"
 
 msgctxt "model:country.subdivision,name:gb-bpl"
 msgid "Blackpool"
-msgstr "ブラックプール"
+msgstr "Blackpool"
 
 msgctxt "model:country.subdivision,name:gb-brc"
 msgid "Bracknell Forest"
-msgstr "ブラックネル フォレスト"
+msgstr "Bracknell Forest"
 
 msgctxt "model:country.subdivision,name:gb-brd"
 msgid "Bradford"
-msgstr "ブラッドフォード"
+msgstr "Bradford"
 
 msgctxt "model:country.subdivision,name:gb-bry"
 msgid "Bromley"
-msgstr "ブロムリー"
+msgstr "Bromley"
 
 msgctxt "model:country.subdivision,name:gb-bst"
 msgid "Bristol, City of"
-msgstr "ブリストル"
+msgstr "Bristol, City of"
 
 msgctxt "model:country.subdivision,name:gb-bur"
 msgid "Bury"
-msgstr "ベリー"
+msgstr "Bury"
 
 msgctxt "model:country.subdivision,name:gb-cam"
 msgid "Cambridgeshire"
-msgstr "ケンブリッジシャー"
+msgstr "Cambridgeshire"
 
 msgctxt "model:country.subdivision,name:gb-cay"
 msgid "Caerphilly;Caerffili"
@@ -1318,11 +1319,11 @@ msgstr "Cheshire West and Chester"
 
 msgctxt "model:country.subdivision,name:gb-ckf"
 msgid "Carrickfergus"
-msgstr "キャリクファーガス"
+msgstr "Carrickfergus"
 
 msgctxt "model:country.subdivision,name:gb-ckt"
 msgid "Cookstown"
-msgstr "クックスタウン"
+msgstr "Cookstown"
 
 msgctxt "model:country.subdivision,name:gb-cld"
 msgid "Calderdale"
@@ -1330,7 +1331,7 @@ msgstr "Calderdale"
 
 msgctxt "model:country.subdivision,name:gb-clk"
 msgid "Clackmannanshire"
-msgstr "クラックマナンシア"
+msgstr "Clackmannanshire"
 
 msgctxt "model:country.subdivision,name:gb-clr"
 msgid "Coleraine"
@@ -1338,11 +1339,11 @@ msgstr "Coleraine"
 
 msgctxt "model:country.subdivision,name:gb-cma"
 msgid "Cumbria"
-msgstr "カンブリア"
+msgstr "Cumbria"
 
 msgctxt "model:country.subdivision,name:gb-cmd"
 msgid "Camden"
-msgstr "カムデン"
+msgstr "Camden"
 
 msgctxt "model:country.subdivision,name:gb-cmn"
 msgid "Carmarthenshire;Sir Gaerfyrddin"
@@ -1350,35 +1351,35 @@ msgstr "Carmarthenshire;Sir Gaerfyrddin"
 
 msgctxt "model:country.subdivision,name:gb-con"
 msgid "Cornwall"
-msgstr "コーンウォール"
+msgstr "Cornwall"
 
 msgctxt "model:country.subdivision,name:gb-cov"
 msgid "Coventry"
-msgstr "コヴェントリー"
+msgstr "Coventry"
 
 msgctxt "model:country.subdivision,name:gb-crf"
 msgid "Cardiff;Caerdydd"
-msgstr "カーディフ"
+msgstr "Cardiff;Caerdydd"
 
 msgctxt "model:country.subdivision,name:gb-cry"
 msgid "Croydon"
-msgstr "クロイドン"
+msgstr "Croydon"
 
 msgctxt "model:country.subdivision,name:gb-csr"
 msgid "Castlereagh"
-msgstr "カースルレー"
+msgstr "Castlereagh"
 
 msgctxt "model:country.subdivision,name:gb-cwy"
 msgid "Conwy"
-msgstr "コンウェー"
+msgstr "Conwy"
 
 msgctxt "model:country.subdivision,name:gb-dal"
 msgid "Darlington"
-msgstr "ダーリントン"
+msgstr "Darlington"
 
 msgctxt "model:country.subdivision,name:gb-dby"
 msgid "Derbyshire"
-msgstr "ダービーシャー"
+msgstr "Derbyshire"
 
 msgctxt "model:country.subdivision,name:gb-den"
 msgid "Denbighshire;Sir Ddinbych"
@@ -1386,11 +1387,11 @@ msgstr "Denbighshire;Sir Ddinbych"
 
 msgctxt "model:country.subdivision,name:gb-der"
 msgid "Derby"
-msgstr "ダービー"
+msgstr "Derby"
 
 msgctxt "model:country.subdivision,name:gb-dev"
 msgid "Devon"
-msgstr "デボン"
+msgstr "Devon"
 
 msgctxt "model:country.subdivision,name:gb-dgn"
 msgid "Dungannon and South Tyrone"
@@ -1398,31 +1399,31 @@ msgstr "Dungannon and South Tyrone"
 
 msgctxt "model:country.subdivision,name:gb-dgy"
 msgid "Dumfries and Galloway"
-msgstr "ダムフリースアンドギャラウェイ"
+msgstr "Dumfries and Galloway"
 
 msgctxt "model:country.subdivision,name:gb-dnc"
 msgid "Doncaster"
-msgstr "ドンカスター"
+msgstr "Doncaster"
 
 msgctxt "model:country.subdivision,name:gb-dnd"
 msgid "Dundee City"
-msgstr "ダンディーシティ"
+msgstr "Dundee City"
 
 msgctxt "model:country.subdivision,name:gb-dor"
 msgid "Dorset"
-msgstr "ドーセット"
+msgstr "Dorset"
 
 msgctxt "model:country.subdivision,name:gb-dow"
 msgid "Down"
-msgstr "ダウン"
+msgstr "Down"
 
 msgctxt "model:country.subdivision,name:gb-dry"
 msgid "Derry"
-msgstr "デリー"
+msgstr "Derry"
 
 msgctxt "model:country.subdivision,name:gb-dud"
 msgid "Dudley"
-msgstr "ダッドリー"
+msgstr "Dudley"
 
 msgctxt "model:country.subdivision,name:gb-dur"
 msgid "Durham, County"
@@ -1430,23 +1431,23 @@ msgstr "Durham, County"
 
 msgctxt "model:country.subdivision,name:gb-eal"
 msgid "Ealing"
-msgstr "イーリング"
+msgstr "Ealing"
 
 msgctxt "model:country.subdivision,name:gb-eaw"
 msgid "England and Wales"
-msgstr "イングランド及びウェールズ"
+msgstr "England and Wales"
 
 msgctxt "model:country.subdivision,name:gb-eay"
 msgid "East Ayrshire"
-msgstr "東エアーシア"
+msgstr "East Ayrshire"
 
 msgctxt "model:country.subdivision,name:gb-edh"
 msgid "Edinburgh, City of"
-msgstr "エディンバラ"
+msgstr "Edinburgh, City of"
 
 msgctxt "model:country.subdivision,name:gb-edu"
 msgid "East Dunbartonshire"
-msgstr "東ダンバートンシャー"
+msgstr "East Dunbartonshire"
 
 msgctxt "model:country.subdivision,name:gb-eln"
 msgid "East Lothian"
@@ -1462,15 +1463,15 @@ msgstr "Enfield"
 
 msgctxt "model:country.subdivision,name:gb-eng"
 msgid "England"
-msgstr "イングランド"
+msgstr "England"
 
 msgctxt "model:country.subdivision,name:gb-erw"
 msgid "East Renfrewshire"
-msgstr "東レンフルーシャー"
+msgstr "East Renfrewshire"
 
 msgctxt "model:country.subdivision,name:gb-ery"
 msgid "East Riding of Yorkshire"
-msgstr "ヨークシャー州イーストライディング"
+msgstr "East Riding of Yorkshire"
 
 msgctxt "model:country.subdivision,name:gb-ess"
 msgid "Essex"
@@ -1478,7 +1479,7 @@ msgstr "Essex"
 
 msgctxt "model:country.subdivision,name:gb-esx"
 msgid "East Sussex"
-msgstr "東サセックス"
+msgstr "East Sussex"
 
 msgctxt "model:country.subdivision,name:gb-fal"
 msgid "Falkirk"
@@ -1502,19 +1503,19 @@ msgstr "Gateshead"
 
 msgctxt "model:country.subdivision,name:gb-gbn"
 msgid "Great Britain"
-msgstr "グレートブリテン"
+msgstr "Great Britain"
 
 msgctxt "model:country.subdivision,name:gb-glg"
 msgid "Glasgow City"
-msgstr "グラスゴー"
+msgstr "Glasgow City"
 
 msgctxt "model:country.subdivision,name:gb-gls"
 msgid "Gloucestershire"
-msgstr "グロスターシャー"
+msgstr "Gloucestershire"
 
 msgctxt "model:country.subdivision,name:gb-gre"
 msgid "Greenwich"
-msgstr "グリニッジ"
+msgstr "Greenwich"
 
 msgctxt "model:country.subdivision,name:gb-gwn"
 msgid "Gwynedd"
@@ -1526,7 +1527,7 @@ msgstr "Halton"
 
 msgctxt "model:country.subdivision,name:gb-ham"
 msgid "Hampshire"
-msgstr "ハンプシャー"
+msgstr "Hampshire"
 
 msgctxt "model:country.subdivision,name:gb-hav"
 msgid "Havering"
@@ -1538,7 +1539,7 @@ msgstr "Hackney"
 
 msgctxt "model:country.subdivision,name:gb-hef"
 msgid "Herefordshire"
-msgstr "ヘレフォードシャー"
+msgstr "Herefordshire"
 
 msgctxt "model:country.subdivision,name:gb-hil"
 msgid "Hillingdon"
@@ -1610,7 +1611,7 @@ msgstr "Knowsley"
 
 msgctxt "model:country.subdivision,name:gb-lan"
 msgid "Lancashire"
-msgstr "ランカシャー"
+msgstr "Lancashire"
 
 msgctxt "model:country.subdivision,name:gb-lbh"
 msgid "Lambeth"
@@ -1638,7 +1639,7 @@ msgstr "Lincolnshire"
 
 msgctxt "model:country.subdivision,name:gb-liv"
 msgid "Liverpool"
-msgstr "リヴァプール"
+msgstr "Liverpool"
 
 msgctxt "model:country.subdivision,name:gb-lmv"
 msgid "Limavady"
@@ -1646,11 +1647,11 @@ msgstr "Limavady"
 
 msgctxt "model:country.subdivision,name:gb-lnd"
 msgid "London, City of"
-msgstr "ロンドン"
+msgstr "London, City of"
 
 msgctxt "model:country.subdivision,name:gb-lrn"
 msgid "Larne"
-msgstr "ラーン"
+msgstr "Larne"
 
 msgctxt "model:country.subdivision,name:gb-lsb"
 msgid "Lisburn"
@@ -1662,11 +1663,11 @@ msgstr "Luton"
 
 msgctxt "model:country.subdivision,name:gb-man"
 msgid "Manchester"
-msgstr "マンチェスター"
+msgstr "Manchester"
 
 msgctxt "model:country.subdivision,name:gb-mdb"
 msgid "Middlesbrough"
-msgstr "ミドルズブラ"
+msgstr "Middlesbrough"
 
 msgctxt "model:country.subdivision,name:gb-mdw"
 msgid "Medway"
@@ -1678,7 +1679,7 @@ msgstr "Magherafelt"
 
 msgctxt "model:country.subdivision,name:gb-mik"
 msgid "Milton Keynes"
-msgstr "ミルトンキーンズ"
+msgstr "Milton Keynes"
 
 msgctxt "model:country.subdivision,name:gb-mln"
 msgid "Midlothian"
@@ -1722,11 +1723,11 @@ msgstr "North East Lincolnshire"
 
 msgctxt "model:country.subdivision,name:gb-net"
 msgid "Newcastle upon Tyne"
-msgstr "ニューカッスル"
+msgstr "Newcastle upon Tyne"
 
 msgctxt "model:country.subdivision,name:gb-nfk"
 msgid "Norfolk"
-msgstr "ノーフォーク"
+msgstr "Norfolk"
 
 msgctxt "model:country.subdivision,name:gb-ngm"
 msgid "Nottingham"
@@ -1734,7 +1735,7 @@ msgstr "Nottingham"
 
 msgctxt "model:country.subdivision,name:gb-nir"
 msgid "Northern Ireland"
-msgstr "北アイルランド"
+msgstr "Northern Ireland"
 
 msgctxt "model:country.subdivision,name:gb-nlk"
 msgid "North Lanarkshire"
@@ -1754,7 +1755,7 @@ msgstr "Newtownabbey"
 
 msgctxt "model:country.subdivision,name:gb-nth"
 msgid "Northamptonshire"
-msgstr "ノーサンプトンシャー"
+msgstr "Northamptonshire"
 
 msgctxt "model:country.subdivision,name:gb-ntl"
 msgid "Neath Port Talbot;Castell-nedd Port Talbot"
@@ -1790,7 +1791,7 @@ msgstr "Oldham"
 
 msgctxt "model:country.subdivision,name:gb-omh"
 msgid "Omagh"
-msgstr "オーマ"
+msgstr "Omagh"
 
 msgctxt "model:country.subdivision,name:gb-ork"
 msgid "Orkney Islands"
@@ -1810,7 +1811,7 @@ msgstr "Perth and Kinross"
 
 msgctxt "model:country.subdivision,name:gb-ply"
 msgid "Plymouth"
-msgstr "プリマス"
+msgstr "Plymouth"
 
 msgctxt "model:country.subdivision,name:gb-pol"
 msgid "Poole"
@@ -1818,7 +1819,7 @@ msgstr "Poole"
 
 msgctxt "model:country.subdivision,name:gb-por"
 msgid "Portsmouth"
-msgstr "ポーツマス"
+msgstr "Portsmouth"
 
 msgctxt "model:country.subdivision,name:gb-pow"
 msgid "Powys"
@@ -1826,7 +1827,7 @@ msgstr "Powys"
 
 msgctxt "model:country.subdivision,name:gb-pte"
 msgid "Peterborough"
-msgstr "ピーターバラ"
+msgstr "Peterborough"
 
 msgctxt "model:country.subdivision,name:gb-rcc"
 msgid "Redcar and Cleveland"
@@ -1878,7 +1879,7 @@ msgstr "Scottish Borders, The"
 
 msgctxt "model:country.subdivision,name:gb-sct"
 msgid "Scotland"
-msgstr "スコットランド"
+msgstr "Scotland"
 
 msgctxt "model:country.subdivision,name:gb-sfk"
 msgid "Suffolk"
@@ -1922,7 +1923,7 @@ msgstr "South Lanarkshire"
 
 msgctxt "model:country.subdivision,name:gb-snd"
 msgid "Sunderland"
-msgstr "サンダーランド"
+msgstr "Sunderland"
 
 msgctxt "model:country.subdivision,name:gb-sol"
 msgid "Solihull"
@@ -1954,7 +1955,7 @@ msgstr "Stirling"
 
 msgctxt "model:country.subdivision,name:gb-sth"
 msgid "Southampton"
-msgstr "サウサンプトン"
+msgstr "Southampton"
 
 msgctxt "model:country.subdivision,name:gb-stn"
 msgid "Sutton"
@@ -2014,7 +2015,7 @@ msgstr "Tower Hamlets"
 
 msgctxt "model:country.subdivision,name:gb-ukm"
 msgid "United Kingdom"
-msgstr "連合王国"
+msgstr "United Kingdom"
 
 msgctxt "model:country.subdivision,name:gb-vgl"
 msgid "Vale of Glamorgan, The;Bro Morgannwg"
@@ -2054,11 +2055,11 @@ msgstr "West Lothian"
 
 msgctxt "model:country.subdivision,name:gb-wls"
 msgid "Wales"
-msgstr "ウェールズ"
+msgstr "Wales"
 
 msgctxt "model:country.subdivision,name:gb-wlv"
 msgid "Wolverhampton"
-msgstr "ウルヴァーハンプトン"
+msgstr "Wolverhampton"
 
 msgctxt "model:country.subdivision,name:gb-wnd"
 msgid "Wandsworth"
@@ -2086,7 +2087,7 @@ msgstr "Warrington"
 
 msgctxt "model:country.subdivision,name:gb-wrx"
 msgid "Wrexham;Wrecsam"
-msgstr "レクサム"
+msgstr "Wrexham;Wrecsam"
 
 msgctxt "model:country.subdivision,name:gb-wsm"
 msgid "Westminster"
@@ -2098,7 +2099,7 @@ msgstr "West Sussex"
 
 msgctxt "model:country.subdivision,name:gb-yor"
 msgid "York"
-msgstr "ヨーク"
+msgstr "York"
 
 msgctxt "model:country.subdivision,name:gb-zet"
 msgid "Shetland Islands"
@@ -2106,87 +2107,87 @@ msgstr "Shetland Islands"
 
 msgctxt "model:country.subdivision,name:it-21"
 msgid "Piemonte"
-msgstr "ピエモンテ"
+msgstr "Piemonte"
 
 msgctxt "model:country.subdivision,name:it-23"
 msgid "Valle d'Aosta"
-msgstr "ヴァッレダオスタ"
+msgstr "Valle d'Aosta"
 
 msgctxt "model:country.subdivision,name:it-25"
 msgid "Lombardia"
-msgstr "ロンバルディア"
+msgstr "Lombardia"
 
 msgctxt "model:country.subdivision,name:it-32"
 msgid "Trentino-Alto Adige"
-msgstr "トレンティノ=アルトアディジェ"
+msgstr "Trentino-Alto Adige"
 
 msgctxt "model:country.subdivision,name:it-34"
 msgid "Veneto"
-msgstr "ヴェネト"
+msgstr "Veneto"
 
 msgctxt "model:country.subdivision,name:it-36"
 msgid "Friuli-Venezia Giulia"
-msgstr "フリウリ=ヴェネツィアジュリア"
+msgstr "Friuli-Venezia Giulia"
 
 msgctxt "model:country.subdivision,name:it-42"
 msgid "Liguria"
-msgstr "リグーリア"
+msgstr "Liguria"
 
 msgctxt "model:country.subdivision,name:it-45"
 msgid "Emilia-Romagna"
-msgstr "エミリア=ロマーニャ"
+msgstr "Emilia-Romagna"
 
 msgctxt "model:country.subdivision,name:it-52"
 msgid "Toscana"
-msgstr "トスカーナ"
+msgstr "Toscana"
 
 msgctxt "model:country.subdivision,name:it-55"
 msgid "Umbria"
-msgstr "ウンブリア"
+msgstr "Umbria"
 
 msgctxt "model:country.subdivision,name:it-57"
 msgid "Marche"
-msgstr "マルケ"
+msgstr "Marche"
 
 msgctxt "model:country.subdivision,name:it-62"
 msgid "Lazio"
-msgstr "ラツィオ"
+msgstr "Lazio"
 
 msgctxt "model:country.subdivision,name:it-65"
 msgid "Abruzzo"
-msgstr "アブルッツォ"
+msgstr "Abruzzo"
 
 msgctxt "model:country.subdivision,name:it-67"
 msgid "Molise"
-msgstr "モリーゼ"
+msgstr "Molise"
 
 msgctxt "model:country.subdivision,name:it-72"
 msgid "Campania"
-msgstr "カンパニア"
+msgstr "Campania"
 
 msgctxt "model:country.subdivision,name:it-75"
 msgid "Puglia"
-msgstr "プーリア"
+msgstr "Puglia"
 
 msgctxt "model:country.subdivision,name:it-77"
 msgid "Basilicata"
-msgstr "バジリカータ"
+msgstr "Basilicata"
 
 msgctxt "model:country.subdivision,name:it-78"
 msgid "Calabria"
-msgstr "カラブリア"
+msgstr "Calabria"
 
 msgctxt "model:country.subdivision,name:it-82"
 msgid "Sicilia"
-msgstr "シチリア"
+msgstr "Sicilia"
 
 msgctxt "model:country.subdivision,name:it-88"
 msgid "Sardegna"
-msgstr "サルデーニャ"
+msgstr "Sardegna"
 
 msgctxt "model:country.subdivision,name:it-ag"
 msgid "Agrigento"
-msgstr "アグリジェント"
+msgstr "Agrigento"
 
 msgctxt "model:country.subdivision,name:it-al"
 msgid "Alessandria"
@@ -2194,7 +2195,7 @@ msgstr "Alessandria"
 
 msgctxt "model:country.subdivision,name:it-an"
 msgid "Ancona"
-msgstr "アンコーナ"
+msgstr "Ancona"
 
 msgctxt "model:country.subdivision,name:it-ao"
 msgid "Aosta"
@@ -2202,31 +2203,31 @@ msgstr "Aosta"
 
 msgctxt "model:country.subdivision,name:it-ap"
 msgid "Ascoli Piceno"
-msgstr "アスコリピチェーノ"
+msgstr "Ascoli Piceno"
 
 msgctxt "model:country.subdivision,name:it-aq"
 msgid "L'Aquila"
-msgstr "ラクイラ"
+msgstr "L'Aquila"
 
 msgctxt "model:country.subdivision,name:it-ar"
 msgid "Arezzo"
-msgstr "アレッツォ"
+msgstr "Arezzo"
 
 msgctxt "model:country.subdivision,name:it-at"
 msgid "Asti"
-msgstr "アスティ"
+msgstr "Asti"
 
 msgctxt "model:country.subdivision,name:it-av"
 msgid "Avellino"
-msgstr "アヴェリーノ"
+msgstr "Avellino"
 
 msgctxt "model:country.subdivision,name:it-ba"
 msgid "Bari"
-msgstr "バリ"
+msgstr "Bari"
 
 msgctxt "model:country.subdivision,name:it-bg"
 msgid "Bergamo"
-msgstr "ベルガモ"
+msgstr "Bergamo"
 
 msgctxt "model:country.subdivision,name:it-bi"
 msgid "Biella"
@@ -2238,19 +2239,19 @@ msgstr "Belluno"
 
 msgctxt "model:country.subdivision,name:it-bn"
 msgid "Benevento"
-msgstr "ベネヴェント"
+msgstr "Benevento"
 
 msgctxt "model:country.subdivision,name:it-bo"
 msgid "Bologna"
-msgstr "ボローニャ"
+msgstr "Bologna"
 
 msgctxt "model:country.subdivision,name:it-br"
 msgid "Brindisi"
-msgstr "ブリンディジ"
+msgstr "Brindisi"
 
 msgctxt "model:country.subdivision,name:it-bs"
 msgid "Brescia"
-msgstr "ブレシア"
+msgstr "Brescia"
 
 msgctxt "model:country.subdivision,name:it-bt"
 msgid "Barletta-Andria-Trani"
@@ -2262,7 +2263,7 @@ msgstr "Bolzano"
 
 msgctxt "model:country.subdivision,name:it-ca"
 msgid "Cagliari"
-msgstr "カリアリ"
+msgstr "Cagliari"
 
 msgctxt "model:country.subdivision,name:it-cb"
 msgid "Campobasso"
@@ -2274,7 +2275,7 @@ msgstr "Caserta"
 
 msgctxt "model:country.subdivision,name:it-ch"
 msgid "Chieti"
-msgstr "キエティ"
+msgstr "Chieti"
 
 msgctxt "model:country.subdivision,name:it-ci"
 msgid "Carbonia-Iglesias"
@@ -2282,15 +2283,15 @@ msgstr "Carbonia-Iglesias"
 
 msgctxt "model:country.subdivision,name:it-cl"
 msgid "Caltanissetta"
-msgstr "カルタニセッタ"
+msgstr "Caltanissetta"
 
 msgctxt "model:country.subdivision,name:it-cn"
 msgid "Cuneo"
-msgstr "クーネオ"
+msgstr "Cuneo"
 
 msgctxt "model:country.subdivision,name:it-co"
 msgid "Como"
-msgstr "コモ"
+msgstr "Como"
 
 msgctxt "model:country.subdivision,name:it-cr"
 msgid "Cremona"
@@ -2298,19 +2299,19 @@ msgstr "Cremona"
 
 msgctxt "model:country.subdivision,name:it-cs"
 msgid "Cosenza"
-msgstr "コゼンツァ"
+msgstr "Cosenza"
 
 msgctxt "model:country.subdivision,name:it-ct"
 msgid "Catania"
-msgstr "カターニア"
+msgstr "Catania"
 
 msgctxt "model:country.subdivision,name:it-cz"
 msgid "Catanzaro"
-msgstr "カタンザーロ"
+msgstr "Catanzaro"
 
 msgctxt "model:country.subdivision,name:it-en"
 msgid "Enna"
-msgstr "エンナ"
+msgstr "Enna"
 
 msgctxt "model:country.subdivision,name:it-fc"
 msgid "Forlì-Cesena"
@@ -2318,15 +2319,15 @@ msgstr "Forlì-Cesena"
 
 msgctxt "model:country.subdivision,name:it-fe"
 msgid "Ferrara"
-msgstr "フェラーラ"
+msgstr "Ferrara"
 
 msgctxt "model:country.subdivision,name:it-fg"
 msgid "Foggia"
-msgstr "フォッジャ"
+msgstr "Foggia"
 
 msgctxt "model:country.subdivision,name:it-fi"
 msgid "Firenze"
-msgstr "フィレンツェ"
+msgstr "Firenze"
 
 msgctxt "model:country.subdivision,name:it-fm"
 msgid "Fermo"
@@ -2334,11 +2335,11 @@ msgstr "Fermo"
 
 msgctxt "model:country.subdivision,name:it-fr"
 msgid "Frosinone"
-msgstr "フロジノーネ"
+msgstr "Frosinone"
 
 msgctxt "model:country.subdivision,name:it-ge"
 msgid "Genova"
-msgstr "ジェノバ"
+msgstr "Genova"
 
 msgctxt "model:country.subdivision,name:it-go"
 msgid "Gorizia"
@@ -2354,11 +2355,11 @@ msgstr "Imperia"
 
 msgctxt "model:country.subdivision,name:it-is"
 msgid "Isernia"
-msgstr "イゼルニア"
+msgstr "Isernia"
 
 msgctxt "model:country.subdivision,name:it-kr"
 msgid "Crotone"
-msgstr "クロトーネ"
+msgstr "Crotone"
 
 msgctxt "model:country.subdivision,name:it-lc"
 msgid "Lecco"
@@ -2366,11 +2367,11 @@ msgstr "Lecco"
 
 msgctxt "model:country.subdivision,name:it-le"
 msgid "Lecce"
-msgstr "レッチェ"
+msgstr "Lecce"
 
 msgctxt "model:country.subdivision,name:it-li"
 msgid "Livorno"
-msgstr "リヴォルノ"
+msgstr "Livorno"
 
 msgctxt "model:country.subdivision,name:it-lo"
 msgid "Lodi"
@@ -2390,15 +2391,15 @@ msgstr "Monza e Brianza"
 
 msgctxt "model:country.subdivision,name:it-mc"
 msgid "Macerata"
-msgstr "マチェラータ"
+msgstr "Macerata"
 
 msgctxt "model:country.subdivision,name:it-me"
 msgid "Messina"
-msgstr "メッシーナ"
+msgstr "Messina"
 
 msgctxt "model:country.subdivision,name:it-mi"
 msgid "Milano"
-msgstr "ミラノ"
+msgstr "Milano"
 
 msgctxt "model:country.subdivision,name:it-mn"
 msgid "Mantova"
@@ -2406,7 +2407,7 @@ msgstr "Mantova"
 
 msgctxt "model:country.subdivision,name:it-mo"
 msgid "Modena"
-msgstr "モデナ"
+msgstr "Modena"
 
 msgctxt "model:country.subdivision,name:it-ms"
 msgid "Massa-Carrara"
@@ -2414,15 +2415,15 @@ msgstr "Massa-Carrara"
 
 msgctxt "model:country.subdivision,name:it-mt"
 msgid "Matera"
-msgstr "マテーラ"
+msgstr "Matera"
 
 msgctxt "model:country.subdivision,name:it-na"
 msgid "Napoli"
-msgstr "ナポリ"
+msgstr "Napoli"
 
 msgctxt "model:country.subdivision,name:it-no"
 msgid "Novara"
-msgstr "ノヴァーラ"
+msgstr "Novara"
 
 msgctxt "model:country.subdivision,name:it-nu"
 msgid "Nuoro"
@@ -2442,23 +2443,23 @@ msgstr "Olbia-Tempio"
 
 msgctxt "model:country.subdivision,name:it-pa"
 msgid "Palermo"
-msgstr "パレルモ"
+msgstr "Palermo"
 
 msgctxt "model:country.subdivision,name:it-pc"
 msgid "Piacenza"
-msgstr "ピアチェンツァ"
+msgstr "Piacenza"
 
 msgctxt "model:country.subdivision,name:it-pd"
 msgid "Padova"
-msgstr "パドヴァ"
+msgstr "Padova"
 
 msgctxt "model:country.subdivision,name:it-pe"
 msgid "Pescara"
-msgstr "ペスカーラ"
+msgstr "Pescara"
 
 msgctxt "model:country.subdivision,name:it-pg"
 msgid "Perugia"
-msgstr "ペルージャ"
+msgstr "Perugia"
 
 msgctxt "model:country.subdivision,name:it-pi"
 msgid "Pisa"
@@ -2474,7 +2475,7 @@ msgstr "Prato"
 
 msgctxt "model:country.subdivision,name:it-pr"
 msgid "Parma"
-msgstr "パルマ"
+msgstr "Parma"
 
 msgctxt "model:country.subdivision,name:it-pt"
 msgid "Pistoia"
@@ -2490,15 +2491,15 @@ msgstr "Pavia"
 
 msgctxt "model:country.subdivision,name:it-pz"
 msgid "Potenza"
-msgstr "ポテンツァ"
+msgstr "Potenza"
 
 msgctxt "model:country.subdivision,name:it-ra"
 msgid "Ravenna"
-msgstr "ラヴェンナ"
+msgstr "Ravenna"
 
 msgctxt "model:country.subdivision,name:it-rc"
 msgid "Reggio Calabria"
-msgstr "レッジョディカラブリア"
+msgstr "Reggio Calabria"
 
 msgctxt "model:country.subdivision,name:it-re"
 msgid "Reggio Emilia"
@@ -2506,7 +2507,7 @@ msgstr "Reggio Emilia"
 
 msgctxt "model:country.subdivision,name:it-rg"
 msgid "Ragusa"
-msgstr "ラグーサ"
+msgstr "Ragusa"
 
 msgctxt "model:country.subdivision,name:it-ri"
 msgid "Rieti"
@@ -2514,11 +2515,11 @@ msgstr "Rieti"
 
 msgctxt "model:country.subdivision,name:it-rm"
 msgid "Roma"
-msgstr "ローマ"
+msgstr "Roma"
 
 msgctxt "model:country.subdivision,name:it-rn"
 msgid "Rimini"
-msgstr "リミニ"
+msgstr "Rimini"
 
 msgctxt "model:country.subdivision,name:it-ro"
 msgid "Rovigo"
@@ -2526,15 +2527,15 @@ msgstr "Rovigo"
 
 msgctxt "model:country.subdivision,name:it-sa"
 msgid "Salerno"
-msgstr "サレルノ"
+msgstr "Salerno"
 
 msgctxt "model:country.subdivision,name:it-si"
 msgid "Siena"
-msgstr "シエナ"
+msgstr "Siena"
 
 msgctxt "model:country.subdivision,name:it-so"
 msgid "Sondrio"
-msgstr "ソンドリオ"
+msgstr "Sondrio"
 
 msgctxt "model:country.subdivision,name:it-sp"
 msgid "La Spezia"
@@ -2542,19 +2543,19 @@ msgstr "La Spezia"
 
 msgctxt "model:country.subdivision,name:it-sr"
 msgid "Siracusa"
-msgstr "シラクーサ"
+msgstr "Siracusa"
 
 msgctxt "model:country.subdivision,name:it-ss"
 msgid "Sassari"
-msgstr "サッサリ"
+msgstr "Sassari"
 
 msgctxt "model:country.subdivision,name:it-sv"
 msgid "Savona"
-msgstr "サヴォーナ"
+msgstr "Savona"
 
 msgctxt "model:country.subdivision,name:it-ta"
 msgid "Taranto"
-msgstr "タラント"
+msgstr "Taranto"
 
 msgctxt "model:country.subdivision,name:it-te"
 msgid "Teramo"
@@ -2562,15 +2563,15 @@ msgstr "Teramo"
 
 msgctxt "model:country.subdivision,name:it-tn"
 msgid "Trento"
-msgstr "トレント"
+msgstr "Trento"
 
 msgctxt "model:country.subdivision,name:it-to"
 msgid "Torino"
-msgstr "トリノ"
+msgstr "Torino"
 
 msgctxt "model:country.subdivision,name:it-tp"
 msgid "Trapani"
-msgstr "トラパニ"
+msgstr "Trapani"
 
 msgctxt "model:country.subdivision,name:it-tr"
 msgid "Terni"
@@ -2578,15 +2579,15 @@ msgstr "Terni"
 
 msgctxt "model:country.subdivision,name:it-ts"
 msgid "Trieste"
-msgstr "トリエステ"
+msgstr "Trieste"
 
 msgctxt "model:country.subdivision,name:it-tv"
 msgid "Treviso"
-msgstr "トレヴィーゾ"
+msgstr "Treviso"
 
 msgctxt "model:country.subdivision,name:it-ud"
 msgid "Udine"
-msgstr "ウーディネ"
+msgstr "Udine"
 
 msgctxt "model:country.subdivision,name:it-va"
 msgid "Varese"
@@ -2602,15 +2603,15 @@ msgstr "Vercelli"
 
 msgctxt "model:country.subdivision,name:it-ve"
 msgid "Venezia"
-msgstr "ヴェネツィア"
+msgstr "Venezia"
 
 msgctxt "model:country.subdivision,name:it-vi"
 msgid "Vicenza"
-msgstr "ヴィチェンツァ"
+msgstr "Vicenza"
 
 msgctxt "model:country.subdivision,name:it-vr"
 msgid "Verona"
-msgstr "ヴェローナ"
+msgstr "Verona"
 
 msgctxt "model:country.subdivision,name:it-vs"
 msgid "Medio Campidano"
@@ -2618,7 +2619,7 @@ msgstr "Medio Campidano"
 
 msgctxt "model:country.subdivision,name:it-vt"
 msgid "Viterbo"
-msgstr "ヴィテルボ"
+msgstr "Viterbo"
 
 msgctxt "model:country.subdivision,name:it-vv"
 msgid "Vibo Valentia"
@@ -2630,11 +2631,11 @@ msgstr "La Colle"
 
 msgctxt "model:country.subdivision,name:mc-co"
 msgid "La Condamine"
-msgstr "ラコンダミーヌ"
+msgstr "La Condamine"
 
 msgctxt "model:country.subdivision,name:mc-fo"
 msgid "Fontvieille"
-msgstr "フォンビエイユ"
+msgstr "Fontvieille"
 
 msgctxt "model:country.subdivision,name:mc-ga"
 msgid "La Gare"
@@ -2654,7 +2655,7 @@ msgstr "Malbousquet"
 
 msgctxt "model:country.subdivision,name:mc-mc"
 msgid "Monte-Carlo"
-msgstr "モンテカルロ"
+msgstr "Monte-Carlo"
 
 msgctxt "model:country.subdivision,name:mc-mg"
 msgid "Moneghetti"
@@ -2694,247 +2695,248 @@ msgstr "Vallon de la Rousse"
 
 msgctxt "model:country.subdivision,name:us-ak"
 msgid "Alaska"
-msgstr "アラスカ"
+msgstr "Alaska"
 
 msgctxt "model:country.subdivision,name:us-al"
 msgid "Alabama"
-msgstr "アラバマ"
+msgstr "Alabama"
 
 msgctxt "model:country.subdivision,name:us-ar"
 msgid "Arkansas"
-msgstr "アーカンソー"
+msgstr "Arkansas"
 
 msgctxt "model:country.subdivision,name:us-as"
 msgid "American Samoa"
-msgstr "米領サモア"
+msgstr "American Samoa"
 
 msgctxt "model:country.subdivision,name:us-az"
 msgid "Arizona"
-msgstr "アリゾナ"
+msgstr "Arizona"
 
 msgctxt "model:country.subdivision,name:us-ca"
 msgid "California"
-msgstr "カリフォルニア"
+msgstr "California"
 
 msgctxt "model:country.subdivision,name:us-co"
 msgid "Colorado"
-msgstr "コロラド"
+msgstr "Colorado"
 
 msgctxt "model:country.subdivision,name:us-ct"
 msgid "Connecticut"
-msgstr "コネティカット"
+msgstr "Connecticut"
 
 msgctxt "model:country.subdivision,name:us-dc"
 msgid "District of Columbia"
-msgstr "コロンビア特別区"
+msgstr "District of Columbia"
 
 msgctxt "model:country.subdivision,name:us-de"
 msgid "Delaware"
-msgstr "デラウェア"
+msgstr "Delaware"
 
 msgctxt "model:country.subdivision,name:us-fl"
 msgid "Florida"
-msgstr "フロリダ"
+msgstr "Florida"
 
 msgctxt "model:country.subdivision,name:us-ga"
 msgid "Georgia"
-msgstr "ジョージア"
+msgstr "Georgia"
 
 msgctxt "model:country.subdivision,name:us-gu"
 msgid "Guam"
-msgstr "グアム"
+msgstr "Guam"
 
 msgctxt "model:country.subdivision,name:us-hi"
 msgid "Hawaii"
-msgstr "ハワイ"
+msgstr "Hawaii"
 
 msgctxt "model:country.subdivision,name:us-ia"
 msgid "Iowa"
-msgstr "アイオワ"
+msgstr "Iowa"
 
 msgctxt "model:country.subdivision,name:us-id"
 msgid "Idaho"
-msgstr "アイダホ"
+msgstr "Idaho"
 
 msgctxt "model:country.subdivision,name:us-il"
 msgid "Illinois"
-msgstr "イリノイ"
+msgstr "Illinois"
 
 msgctxt "model:country.subdivision,name:us-in"
 msgid "Indiana"
-msgstr "インディアナ"
+msgstr "Indiana"
 
 msgctxt "model:country.subdivision,name:us-ks"
 msgid "Kansas"
-msgstr "カンザス"
+msgstr "Kansas"
 
 msgctxt "model:country.subdivision,name:us-ky"
 msgid "Kentucky"
-msgstr "ケンタッキー"
+msgstr "Kentucky"
 
 msgctxt "model:country.subdivision,name:us-la"
 msgid "Louisiana"
-msgstr "ルイジアナ"
+msgstr "Louisiana"
 
 msgctxt "model:country.subdivision,name:us-ma"
 msgid "Massachusetts"
-msgstr "マサチューセッツ"
+msgstr "Massachusetts"
 
 msgctxt "model:country.subdivision,name:us-md"
 msgid "Maryland"
-msgstr "メリーランド"
+msgstr "Maryland"
 
 msgctxt "model:country.subdivision,name:us-me"
 msgid "Maine"
-msgstr "メーン"
+msgstr "Maine"
 
 msgctxt "model:country.subdivision,name:us-mi"
 msgid "Michigan"
-msgstr "ミシガン"
+msgstr "Michigan"
 
 msgctxt "model:country.subdivision,name:us-mn"
 msgid "Minnesota"
-msgstr "ミネソタ"
+msgstr "Minnesota"
 
 msgctxt "model:country.subdivision,name:us-mo"
 msgid "Missouri"
-msgstr "ミズーリ"
+msgstr "Missouri"
 
 msgctxt "model:country.subdivision,name:us-mp"
 msgid "Northern Mariana Islands"
-msgstr "北マリアナ諸島"
+msgstr "Northern Mariana Islands"
 
 msgctxt "model:country.subdivision,name:us-ms"
 msgid "Mississippi"
-msgstr "ミシシッピ"
+msgstr "Mississippi"
 
 msgctxt "model:country.subdivision,name:us-mt"
 msgid "Montana"
-msgstr "モンタナ"
+msgstr "Montana"
 
 msgctxt "model:country.subdivision,name:us-nc"
 msgid "North Carolina"
-msgstr "ノースカロライナ"
+msgstr "North Carolina"
 
 msgctxt "model:country.subdivision,name:us-nd"
 msgid "North Dakota"
-msgstr "ノースダコタ"
+msgstr "North Dakota"
 
 msgctxt "model:country.subdivision,name:us-ne"
 msgid "Nebraska"
-msgstr "ネブラスカ"
+msgstr "Nebraska"
 
 msgctxt "model:country.subdivision,name:us-nh"
 msgid "New Hampshire"
-msgstr "ニューハンプシャー"
+msgstr "New Hampshire"
 
 msgctxt "model:country.subdivision,name:us-nj"
 msgid "New Jersey"
-msgstr "ニュージャージー"
+msgstr "New Jersey"
 
 msgctxt "model:country.subdivision,name:us-nm"
 msgid "New Mexico"
-msgstr "ニューメキシコ"
+msgstr "New Mexico"
 
 msgctxt "model:country.subdivision,name:us-nv"
 msgid "Nevada"
-msgstr "ネヴァダ"
+msgstr "Nevada"
 
 msgctxt "model:country.subdivision,name:us-ny"
 msgid "New York"
-msgstr "ニューヨーク"
+msgstr "New York"
 
 msgctxt "model:country.subdivision,name:us-oh"
 msgid "Ohio"
-msgstr "オハイオ"
+msgstr "Ohio"
 
 msgctxt "model:country.subdivision,name:us-ok"
 msgid "Oklahoma"
-msgstr "オクラホマ"
+msgstr "Oklahoma"
 
 msgctxt "model:country.subdivision,name:us-or"
 msgid "Oregon"
-msgstr "オレゴン"
+msgstr "Oregon"
 
 msgctxt "model:country.subdivision,name:us-pa"
 msgid "Pennsylvania"
-msgstr "ペンシルヴェニア"
+msgstr "Pennsylvania"
 
 msgctxt "model:country.subdivision,name:us-pr"
 msgid "Puerto Rico"
-msgstr "プエルトリコ"
+msgstr "Puerto Rico"
 
 msgctxt "model:country.subdivision,name:us-ri"
 msgid "Rhode Island"
-msgstr "ロードアイランド"
+msgstr "Rhode Island"
 
 msgctxt "model:country.subdivision,name:us-sc"
 msgid "South Carolina"
-msgstr "サウスカロライナ"
+msgstr "South Carolina"
 
 msgctxt "model:country.subdivision,name:us-sd"
 msgid "South Dakota"
-msgstr "サウスダコタ"
+msgstr "South Dakota"
 
 msgctxt "model:country.subdivision,name:us-tn"
 msgid "Tennessee"
-msgstr "テネシー"
+msgstr "Tennessee"
 
 msgctxt "model:country.subdivision,name:us-tx"
 msgid "Texas"
-msgstr "テキサス"
+msgstr "Texas"
 
 msgctxt "model:country.subdivision,name:us-um"
 msgid "United States Minor Outlying Islands"
-msgstr "アメリカ合衆国外諸島"
+msgstr "United States Minor Outlying Islands"
 
 msgctxt "model:country.subdivision,name:us-ut"
 msgid "Utah"
-msgstr "ユタ"
+msgstr "Utah"
 
 msgctxt "model:country.subdivision,name:us-va"
 msgid "Virginia"
-msgstr "ヴァージニア"
+msgstr "Virginia"
 
 msgctxt "model:country.subdivision,name:us-vi"
 msgid "Virgin Islands"
-msgstr "ヴァージン諸島"
+msgstr "Virgin Islands"
 
 msgctxt "model:country.subdivision,name:us-vt"
 msgid "Vermont"
-msgstr "ヴァーモント"
+msgstr "Vermont"
 
 msgctxt "model:country.subdivision,name:us-wa"
 msgid "Washington"
-msgstr "ワシントン"
+msgstr "Washington"
 
 msgctxt "model:country.subdivision,name:us-wi"
 msgid "Wisconsin"
-msgstr "ウィスコンシン"
+msgstr "Wisconsin"
 
 msgctxt "model:country.subdivision,name:us-wv"
 msgid "West Virginia"
-msgstr "ウェストヴァージニア"
+msgstr "West Virginia"
 
 msgctxt "model:country.subdivision,name:us-wy"
 msgid "Wyoming"
-msgstr "ワイオミング"
+msgstr "Wyoming"
 
+#, fuzzy
 msgctxt "model:country.zip,name:"
 msgid "Zip"
-msgstr ""
+msgstr "Zip"
 
 msgctxt "model:ir.action,name:act_country_form"
 msgid "Countries"
-msgstr ""
+msgstr "Countries"
 
 msgctxt "model:ir.action,name:act_zip_form"
 msgid "Zip"
-msgstr ""
+msgstr "Zip"
 
 msgctxt "model:ir.ui.menu,name:menu_country_form"
 msgid "Countries"
-msgstr ""
+msgstr "Countries"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administration"
@@ -2963,7 +2965,7 @@ msgstr ""
 #, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Area"
-msgstr "アルタ"
+msgstr "Arta"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Atoll"
@@ -3080,11 +3082,12 @@ msgstr ""
 #, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Country"
-msgstr "コヴェントリー"
+msgstr "Coventry"
 
+#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "County"
-msgstr ""
+msgstr "Coventry"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Department"
@@ -3225,7 +3228,7 @@ msgstr ""
 #, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Parish"
-msgstr "パリ"
+msgstr "Paris"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Popularates"
@@ -3250,7 +3253,7 @@ msgstr ""
 #, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Rayon"
-msgstr "ラヨーン"
+msgstr "Rayong"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Region"
@@ -3338,25 +3341,4 @@ msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "zone"
-msgstr ""
-
-msgctxt "view:country.country:"
-msgid "Countries"
-msgstr ""
-
-#, fuzzy
-msgctxt "view:country.country:"
-msgid "Country"
-msgstr "コヴェントリー"
-
-msgctxt "view:country.subdivision:"
-msgid "Subdivision"
-msgstr ""
-
-msgctxt "view:country.subdivision:"
-msgid "Subdivisions"
-msgstr ""
-
-msgctxt "view:country.zip:"
-msgid "Zip"
 msgstr ""

@@ -36,10 +36,9 @@ msgctxt "field:country.country,rec_name:"
 msgid "Name"
 msgstr "Namu"
 
-#, fuzzy
 msgctxt "field:country.country,subdivisions:"
 msgid "Subdivisions"
-msgstr "Ascension"
+msgstr ""
 
 msgctxt "field:country.country,write_date:"
 msgid "Write Date"
@@ -122,10 +121,9 @@ msgctxt "field:country.zip,rec_name:"
 msgid "Name"
 msgstr "Namu"
 
-#, fuzzy
 msgctxt "field:country.zip,subdivision:"
 msgid "Subdivision"
-msgstr "Ascension"
+msgstr ""
 
 msgctxt "field:country.zip,write_date:"
 msgid "Write Date"
@@ -135,9 +133,10 @@ msgctxt "field:country.zip,write_uid:"
 msgid "Write User"
 msgstr ""
 
+#, fuzzy
 msgctxt "field:country.zip,zip:"
 msgid "Zip"
-msgstr ""
+msgstr "Zip"
 
 msgctxt "help:country.country,code3:"
 msgid ""
@@ -168,40 +167,39 @@ msgstr "Coventry"
 
 msgctxt "model:country.country,name:be"
 msgid "Belgium"
-msgstr "Belgie"
+msgstr "Belgium"
 
 msgctxt "model:country.country,name:ch"
 msgid "Switzerland"
-msgstr "Švýcarsko"
+msgstr "Switzerland"
 
 msgctxt "model:country.country,name:es"
 msgid "Spain"
-msgstr "Španělsko"
+msgstr "Spain"
 
 msgctxt "model:country.country,name:fr"
 msgid "France"
-msgstr "Francie"
+msgstr "France"
 
 msgctxt "model:country.country,name:gb"
 msgid "United Kingdom"
-msgstr "Spojené království"
+msgstr "United Kingdom"
 
 msgctxt "model:country.country,name:it"
 msgid "Italy"
-msgstr "Itálie"
+msgstr "Italy"
 
 msgctxt "model:country.country,name:mc"
 msgid "Monaco"
-msgstr "Monako"
+msgstr "Monaco"
 
 msgctxt "model:country.country,name:us"
 msgid "United States"
-msgstr "Spojené státy"
+msgstr "United States"
 
-#, fuzzy
 msgctxt "model:country.subdivision,name:"
 msgid "Subdivision"
-msgstr "Ascension"
+msgstr ""
 
 msgctxt "model:country.subdivision,name:be-bru"
 msgid "Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest"
@@ -665,7 +663,7 @@ msgstr "Ardèche"
 
 msgctxt "model:country.subdivision,name:fr-08"
 msgid "Ardennes"
-msgstr "Ardeny"
+msgstr "Ardennes"
 
 msgctxt "model:country.subdivision,name:fr-09"
 msgid "Ariège"
@@ -937,7 +935,7 @@ msgstr "Haute-Savoie"
 
 msgctxt "model:country.subdivision,name:fr-75"
 msgid "Paris"
-msgstr "Paříž"
+msgstr "Paris"
 
 msgctxt "model:country.subdivision,name:fr-76"
 msgid "Seine-Maritime"
@@ -1045,7 +1043,7 @@ msgstr "Bourgogne"
 
 msgctxt "model:country.subdivision,name:fr-e"
 msgid "Bretagne"
-msgstr "Bretaň"
+msgstr "Bretagne"
 
 msgctxt "model:country.subdivision,name:fr-f"
 msgid "Centre"
@@ -1093,7 +1091,7 @@ msgstr "Saint-Martin"
 
 msgctxt "model:country.subdivision,name:fr-mq"
 msgid "Martinique"
-msgstr "Martinik"
+msgstr "Martinique"
 
 msgctxt "model:country.subdivision,name:fr-n"
 msgid "Midi-Pyrénées"
@@ -1285,7 +1283,7 @@ msgstr "Bromley"
 
 msgctxt "model:country.subdivision,name:gb-bst"
 msgid "Bristol, City of"
-msgstr "Bristol, město"
+msgstr "Bristol, City of"
 
 msgctxt "model:country.subdivision,name:gb-bur"
 msgid "Bury"
@@ -1437,7 +1435,7 @@ msgstr "Ealing"
 
 msgctxt "model:country.subdivision,name:gb-eaw"
 msgid "England and Wales"
-msgstr "Anglie a Wales"
+msgstr "England and Wales"
 
 msgctxt "model:country.subdivision,name:gb-eay"
 msgid "East Ayrshire"
@@ -1465,7 +1463,7 @@ msgstr "Enfield"
 
 msgctxt "model:country.subdivision,name:gb-eng"
 msgid "England"
-msgstr "Anglie"
+msgstr "England"
 
 msgctxt "model:country.subdivision,name:gb-erw"
 msgid "East Renfrewshire"
@@ -1505,7 +1503,7 @@ msgstr "Gateshead"
 
 msgctxt "model:country.subdivision,name:gb-gbn"
 msgid "Great Britain"
-msgstr "Velká Británie"
+msgstr "Great Britain"
 
 msgctxt "model:country.subdivision,name:gb-glg"
 msgid "Glasgow City"
@@ -1649,7 +1647,7 @@ msgstr "Limavady"
 
 msgctxt "model:country.subdivision,name:gb-lnd"
 msgid "London, City of"
-msgstr "Londýn, město"
+msgstr "London, City of"
 
 msgctxt "model:country.subdivision,name:gb-lrn"
 msgid "Larne"
@@ -1737,7 +1735,7 @@ msgstr "Nottingham"
 
 msgctxt "model:country.subdivision,name:gb-nir"
 msgid "Northern Ireland"
-msgstr "Severní Irsko"
+msgstr "Northern Ireland"
 
 msgctxt "model:country.subdivision,name:gb-nlk"
 msgid "North Lanarkshire"
@@ -1881,7 +1879,7 @@ msgstr "Scottish Borders, The"
 
 msgctxt "model:country.subdivision,name:gb-sct"
 msgid "Scotland"
-msgstr "Skotsko"
+msgstr "Scotland"
 
 msgctxt "model:country.subdivision,name:gb-sfk"
 msgid "Suffolk"
@@ -2017,7 +2015,7 @@ msgstr "Tower Hamlets"
 
 msgctxt "model:country.subdivision,name:gb-ukm"
 msgid "United Kingdom"
-msgstr "Spojené království"
+msgstr "United Kingdom"
 
 msgctxt "model:country.subdivision,name:gb-vgl"
 msgid "Vale of Glamorgan, The;Bro Morgannwg"
@@ -2181,7 +2179,7 @@ msgstr "Calabria"
 
 msgctxt "model:country.subdivision,name:it-82"
 msgid "Sicilia"
-msgstr "Sicílie"
+msgstr "Sicilia"
 
 msgctxt "model:country.subdivision,name:it-88"
 msgid "Sardegna"
@@ -2517,7 +2515,7 @@ msgstr "Rieti"
 
 msgctxt "model:country.subdivision,name:it-rm"
 msgid "Roma"
-msgstr "Řím"
+msgstr "Roma"
 
 msgctxt "model:country.subdivision,name:it-rn"
 msgid "Rimini"
@@ -2605,7 +2603,7 @@ msgstr "Vercelli"
 
 msgctxt "model:country.subdivision,name:it-ve"
 msgid "Venezia"
-msgstr "Benátky"
+msgstr "Venezia"
 
 msgctxt "model:country.subdivision,name:it-vi"
 msgid "Vicenza"
@@ -2697,7 +2695,7 @@ msgstr "Vallon de la Rousse"
 
 msgctxt "model:country.subdivision,name:us-ak"
 msgid "Alaska"
-msgstr "Aljaška"
+msgstr "Alaska"
 
 msgctxt "model:country.subdivision,name:us-al"
 msgid "Alabama"
@@ -2717,7 +2715,7 @@ msgstr "Arizona"
 
 msgctxt "model:country.subdivision,name:us-ca"
 msgid "California"
-msgstr "Kalifornie"
+msgstr "California"
 
 msgctxt "model:country.subdivision,name:us-co"
 msgid "Colorado"
@@ -2749,7 +2747,7 @@ msgstr "Guam"
 
 msgctxt "model:country.subdivision,name:us-hi"
 msgid "Hawaii"
-msgstr "Havaj"
+msgstr "Hawaii"
 
 msgctxt "model:country.subdivision,name:us-ia"
 msgid "Iowa"
@@ -2817,11 +2815,11 @@ msgstr "Montana"
 
 msgctxt "model:country.subdivision,name:us-nc"
 msgid "North Carolina"
-msgstr "Severní Karolína"
+msgstr "North Carolina"
 
 msgctxt "model:country.subdivision,name:us-nd"
 msgid "North Dakota"
-msgstr "Severní Dakota"
+msgstr "North Dakota"
 
 msgctxt "model:country.subdivision,name:us-ne"
 msgid "Nebraska"
@@ -2837,7 +2835,7 @@ msgstr "New Jersey"
 
 msgctxt "model:country.subdivision,name:us-nm"
 msgid "New Mexico"
-msgstr "Nové Mexiko"
+msgstr "New Mexico"
 
 msgctxt "model:country.subdivision,name:us-nv"
 msgid "Nevada"
@@ -2861,7 +2859,7 @@ msgstr "Oregon"
 
 msgctxt "model:country.subdivision,name:us-pa"
 msgid "Pennsylvania"
-msgstr "Pensylvánie"
+msgstr "Pennsylvania"
 
 msgctxt "model:country.subdivision,name:us-pr"
 msgid "Puerto Rico"
@@ -2873,11 +2871,11 @@ msgstr "Rhode Island"
 
 msgctxt "model:country.subdivision,name:us-sc"
 msgid "South Carolina"
-msgstr "Jižní Karolína"
+msgstr "South Carolina"
 
 msgctxt "model:country.subdivision,name:us-sd"
 msgid "South Dakota"
-msgstr "Jižní Dakota"
+msgstr "South Dakota"
 
 msgctxt "model:country.subdivision,name:us-tn"
 msgid "Tennessee"
@@ -2901,7 +2899,7 @@ msgstr "Virginia"
 
 msgctxt "model:country.subdivision,name:us-vi"
 msgid "Virgin Islands"
-msgstr "Panenské ostrovy"
+msgstr "Virgin Islands"
 
 msgctxt "model:country.subdivision,name:us-vt"
 msgid "Vermont"
@@ -2923,21 +2921,22 @@ msgctxt "model:country.subdivision,name:us-wy"
 msgid "Wyoming"
 msgstr "Wyoming"
 
+#, fuzzy
 msgctxt "model:country.zip,name:"
 msgid "Zip"
-msgstr ""
+msgstr "Zip"
 
 msgctxt "model:ir.action,name:act_country_form"
 msgid "Countries"
-msgstr ""
+msgstr "Countries"
 
 msgctxt "model:ir.action,name:act_zip_form"
 msgid "Zip"
-msgstr ""
+msgstr "Zip"
 
 msgctxt "model:ir.ui.menu,name:menu_country_form"
 msgid "Countries"
-msgstr ""
+msgstr "Countries"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administration"
@@ -3229,7 +3228,7 @@ msgstr ""
 #, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Parish"
-msgstr "Paříž"
+msgstr "Paris"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Popularates"
@@ -3342,27 +3341,4 @@ msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "zone"
-msgstr ""
-
-msgctxt "view:country.country:"
-msgid "Countries"
-msgstr ""
-
-#, fuzzy
-msgctxt "view:country.country:"
-msgid "Country"
-msgstr "Coventry"
-
-#, fuzzy
-msgctxt "view:country.subdivision:"
-msgid "Subdivision"
-msgstr "Ascension"
-
-#, fuzzy
-msgctxt "view:country.subdivision:"
-msgid "Subdivisions"
-msgstr "Ascension"
-
-msgctxt "view:country.zip:"
-msgid "Zip"
 msgstr ""
