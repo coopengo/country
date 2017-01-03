@@ -5,7 +5,7 @@ from lxml import etree
 countries = ('fr', 'be', 'it', 'mc', 'es', 'ch', 'gb', 'us')
 
 
-def troncate_records():
+def truncate_records():
     to_remove = []
     with open('country.xml', 'r') as f:
         tree = etree.parse(f)
@@ -22,7 +22,7 @@ def troncate_records():
         tree.write(f, pretty_print=True, encoding='utf-8')
 
 
-def troncate_translations():
+def truncate_translations():
     country_prefix = 'model:country.country,name:'
     country_msgctxt = tuple([country_prefix + c for c in countries])
     subdiv_prefix = 'model:country.subdivision,name:'
@@ -42,5 +42,5 @@ def troncate_translations():
 
 
 if __name__ == '__main__':
-    troncate_records()
-    troncate_translations()
+    truncate_records()
+    truncate_translations()
