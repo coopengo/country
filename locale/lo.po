@@ -88,7 +88,7 @@ msgstr "ວັນທີບັນທຶກ"
 
 msgctxt "field:country.subdivision,write_uid:"
 msgid "Write User"
-msgstr "ຜູ້ບັນມຶກ"
+msgstr "ຜູ້ບັນທຶກ"
 
 msgctxt "field:country.zip,city:"
 msgid "City"
@@ -131,30 +131,48 @@ msgid "Zip"
 msgstr "ລະຫັດປະເທດ"
 
 msgctxt "help:country.country,code3:"
-msgid ""
-"The ISO country code in three chars.\n"
-"You can use this field for quick search."
+msgid "The 3 chars ISO country code."
 msgstr ""
-"ລະຫັດ ISO ປະເທດ 3 ໂຕອັກສອນ.\n"
-"ທ່ານສາມາດໃຊ້ ຊ່ອງນີ້ ເພື່ອຊອກຫາໂດຍໄວ."
 
 msgctxt "help:country.country,code:"
-msgid ""
-"The ISO country code in two chars.\n"
-"You can use this field for quick search."
+msgid "The 2 chars ISO country code."
 msgstr ""
-"ລະຫັດ ISO ປະເທດ 2 ໂຕອັກສອນ.\n"
-"ທ່ານສາມາດໃຊ້ຊ່ອງນີ້ ເພື່ອຊອກຫາໂດຍໄວ."
 
 msgctxt "help:country.country,code_numeric:"
-msgid ""
-"The ISO numeric country code.\n"
-"You can use this field for quick search."
-msgstr "ລະຫັດໂຕເລກ ISO ປະເທດ.\\ທ່ານສາມາດໃຊ້ຊ່ອງນີ້ ເພື່ອຊອກຫາໂດຍໄວ."
+msgid "The ISO numeric country code."
+msgstr ""
 
 msgctxt "help:country.country,name:"
-msgid "The full name of the country."
-msgstr "ຊື່ເຕັມຂອງປະເທດ"
+msgid "The main identifier of the country."
+msgstr ""
+
+msgctxt "help:country.subdivision,code:"
+msgid "The ISO code of the subdivision."
+msgstr ""
+
+msgctxt "help:country.subdivision,country:"
+msgid "The country where this subdivision is."
+msgstr ""
+
+msgctxt "help:country.subdivision,name:"
+msgid "The main identifier of the subdivision."
+msgstr ""
+
+msgctxt "help:country.subdivision,parent:"
+msgid "Add subdivision below the parent."
+msgstr ""
+
+msgctxt "help:country.zip,city:"
+msgid "The name of the city for the zip."
+msgstr ""
+
+msgctxt "help:country.zip,country:"
+msgid "The country where the zip is."
+msgstr ""
+
+msgctxt "help:country.zip,subdivision:"
+msgid "The subdivision where the zip is."
+msgstr ""
 
 msgctxt "model:country.country,name:"
 msgid "Country"
@@ -240,7 +258,6 @@ msgctxt "model:country.subdivision,name:be-wlg"
 msgid "Liège"
 msgstr ""
 
-#, fuzzy
 msgctxt "model:country.subdivision,name:be-wlx"
 msgid "Luxembourg"
 msgstr "ລຸກຊໍາບວກ"
@@ -391,7 +408,7 @@ msgid "Badajoz"
 msgstr ""
 
 msgctxt "model:country.subdivision,name:es-bi"
-msgid "Vizcayaa / Bizkaia"
+msgid "Bizkaia"
 msgstr ""
 
 msgctxt "model:country.subdivision,name:es-bu"
@@ -588,7 +605,7 @@ msgid "Soria"
 msgstr ""
 
 msgctxt "model:country.subdivision,name:es-ss"
-msgid "Guipúzcoa / Gipuzkoa"
+msgid "Gipuzkoa"
 msgstr ""
 
 msgctxt "model:country.subdivision,name:es-t"
@@ -616,7 +633,7 @@ msgid "Valladolid"
 msgstr ""
 
 msgctxt "model:country.subdivision,name:es-vc"
-msgid "Valenciana, Comunidad / Valenciana, Comunitat "
+msgid "Valenciana, Comunidad / Valenciana, Comunitat"
 msgstr ""
 
 msgctxt "model:country.subdivision,name:es-vi"
@@ -2961,7 +2978,7 @@ msgstr "ເຂດການປົກຄອງ"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administrative Region"
-msgstr "ເຂດການປົກຄອງພາກ"
+msgstr "ພາກການປົກຄອງ"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administrative Territory"
@@ -3002,7 +3019,7 @@ msgstr "ເມືອງປົກຄອງຕົນເອງ"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous Province"
-msgstr ""
+msgstr "ແຂວງປົກຄອງຕົນເອງ"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous Region"
@@ -3018,7 +3035,7 @@ msgstr "ເຂດຊຸມຊົນເອກະລາດ"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous island"
-msgstr ""
+msgstr "ເກາະເອກະລາດ"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous monastic state"
@@ -3094,7 +3111,7 @@ msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Council area"
-msgstr ""
+msgstr "ເຂດສະພາບໍລິຫານ"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Country"
