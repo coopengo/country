@@ -139,25 +139,47 @@ msgid "Zip"
 msgstr "Zip"
 
 msgctxt "help:country.country,code3:"
-msgid ""
-"The ISO country code in three chars.\n"
-"You can use this field for quick search."
+msgid "The 3 chars ISO country code."
 msgstr ""
 
 msgctxt "help:country.country,code:"
-msgid ""
-"The ISO country code in two chars.\n"
-"You can use this field for quick search."
+msgid "The 2 chars ISO country code."
 msgstr ""
 
 msgctxt "help:country.country,code_numeric:"
-msgid ""
-"The ISO numeric country code.\n"
-"You can use this field for quick search."
+msgid "The ISO numeric country code."
 msgstr ""
 
 msgctxt "help:country.country,name:"
-msgid "The full name of the country."
+msgid "The main identifier of the country."
+msgstr ""
+
+msgctxt "help:country.subdivision,code:"
+msgid "The ISO code of the subdivision."
+msgstr ""
+
+msgctxt "help:country.subdivision,country:"
+msgid "The country where this subdivision is."
+msgstr ""
+
+msgctxt "help:country.subdivision,name:"
+msgid "The main identifier of the subdivision."
+msgstr ""
+
+msgctxt "help:country.subdivision,parent:"
+msgid "Add subdivision below the parent."
+msgstr ""
+
+msgctxt "help:country.zip,city:"
+msgid "The name of the city for the zip."
+msgstr ""
+
+msgctxt "help:country.zip,country:"
+msgid "The country where the zip is."
+msgstr ""
+
+msgctxt "help:country.zip,subdivision:"
+msgid "The subdivision where the zip is."
 msgstr ""
 
 #, fuzzy
@@ -167,35 +189,35 @@ msgstr "Coventry"
 
 msgctxt "model:country.country,name:be"
 msgid "Belgium"
-msgstr "Belgium"
+msgstr "Bélgica"
 
 msgctxt "model:country.country,name:ch"
 msgid "Switzerland"
-msgstr "Switzerland"
+msgstr "Suiza"
 
 msgctxt "model:country.country,name:es"
 msgid "Spain"
-msgstr "Spain"
+msgstr "España"
 
 msgctxt "model:country.country,name:fr"
 msgid "France"
-msgstr "France"
+msgstr "Francia"
 
 msgctxt "model:country.country,name:gb"
 msgid "United Kingdom"
-msgstr "United Kingdom"
+msgstr "Reino Unido"
 
 msgctxt "model:country.country,name:it"
 msgid "Italy"
-msgstr "Italy"
+msgstr "Italia"
 
 msgctxt "model:country.country,name:mc"
 msgid "Monaco"
-msgstr "Monaco"
+msgstr "Mónaco"
 
 msgctxt "model:country.country,name:us"
 msgid "United States"
-msgstr "United States"
+msgstr "Estados Unidos"
 
 msgctxt "model:country.subdivision,name:"
 msgid "Subdivision"
@@ -394,8 +416,8 @@ msgid "Badajoz"
 msgstr "Badajoz"
 
 msgctxt "model:country.subdivision,name:es-bi"
-msgid "Vizcayaa / Bizkaia"
-msgstr "Vizcayaa / Bizkaia"
+msgid "Bizkaia"
+msgstr "Bizkaia"
 
 msgctxt "model:country.subdivision,name:es-bu"
 msgid "Burgos"
@@ -547,7 +569,7 @@ msgstr "Asturias"
 
 msgctxt "model:country.subdivision,name:es-or"
 msgid "Ourense"
-msgstr "Ourense"
+msgstr "Orense"
 
 msgctxt "model:country.subdivision,name:es-p"
 msgid "Palencia"
@@ -590,8 +612,8 @@ msgid "Soria"
 msgstr "Soria"
 
 msgctxt "model:country.subdivision,name:es-ss"
-msgid "Guipúzcoa / Gipuzkoa"
-msgstr "Guipúzcoa / Gipuzkoa"
+msgid "Gipuzkoa"
+msgstr "Gipuzkoa"
 
 msgctxt "model:country.subdivision,name:es-t"
 msgid "Tarragona"
@@ -618,8 +640,8 @@ msgid "Valladolid"
 msgstr "Valladolid"
 
 msgctxt "model:country.subdivision,name:es-vc"
-msgid "Valenciana, Comunidad / Valenciana, Comunitat "
-msgstr "Valenciana, Comunidad / Valenciana, Comunitat "
+msgid "Valenciana, Comunidad / Valenciana, Comunitat"
+msgstr "Valenciana, Comunidad / Valenciana, Comunitat"
 
 msgctxt "model:country.subdivision,name:es-vi"
 msgid "Álava"
@@ -2707,7 +2729,7 @@ msgstr "Arkansas"
 
 msgctxt "model:country.subdivision,name:us-as"
 msgid "American Samoa"
-msgstr "American Samoa"
+msgstr "Samoa Americana"
 
 msgctxt "model:country.subdivision,name:us-az"
 msgid "Arizona"
@@ -2803,7 +2825,7 @@ msgstr "Missouri"
 
 msgctxt "model:country.subdivision,name:us-mp"
 msgid "Northern Mariana Islands"
-msgstr "Northern Mariana Islands"
+msgstr "Islas Mariana del Norte"
 
 msgctxt "model:country.subdivision,name:us-ms"
 msgid "Mississippi"
@@ -2887,7 +2909,7 @@ msgstr "Texas"
 
 msgctxt "model:country.subdivision,name:us-um"
 msgid "United States Minor Outlying Islands"
-msgstr "United States Minor Outlying Islands"
+msgstr "Islas Circundantes Menores de los Estados Unidos"
 
 msgctxt "model:country.subdivision,name:us-ut"
 msgid "Utah"
@@ -3342,3 +3364,15 @@ msgstr ""
 msgctxt "selection:country.subdivision,type:"
 msgid "zone"
 msgstr ""
+
+msgctxt "model:country.subdivision,name:es-bi"
+msgid "Vizcayaa / Bizkaia"
+msgstr "Vizcayaa / Bizkaia"
+
+msgctxt "model:country.subdivision,name:es-ss"
+msgid "Guipúzcoa / Gipuzkoa"
+msgstr "Guipúzcoa / Gipuzkoa"
+
+msgctxt "model:country.subdivision,name:es-vc"
+msgid "Valenciana, Comunidad / Valenciana, Comunitat "
+msgstr "Valenciana, Comunidad / Valenciana, Comunitat "
