@@ -1,15 +1,12 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # This file is part of Tryton.  The COPYRIGHT file at the top level of
 # this repository contains the full copyright notices and license terms.
 
-from setuptools import setup
-import re
-import os
 import io
-try:
-    from configparser import ConfigParser
-except ImportError:
-    from configparser import ConfigParser
+import os
+import re
+from configparser import ConfigParser
+from setuptools import setup
 
 
 def read(fname):
@@ -27,8 +24,9 @@ def get_require_version(name):
         major_version, minor_version + 1)
     return require
 
+
 config = ConfigParser()
-config.readfp(open('tryton.cfg'))
+config.read_file(open('tryton.cfg'))
 info = dict(config.items('tryton'))
 for key in ('depends', 'extras_depend', 'xml'):
     if key in info:
@@ -73,7 +71,7 @@ setup(name=name,
         ],
     package_data={
         'trytond.modules.country': (info.get('xml', [])
-            + ['tryton.cfg', 'view/*.xml', 'locale/*.po']),
+            + ['tryton.cfg', 'view/*.xml', 'locale/*.po', 'icons/*.svg']),
         },
     scripts=['scripts/trytond_import_zip'],
     classifiers=[
@@ -102,15 +100,16 @@ setup(name=name,
         'Natural Language :: Slovenian',
         'Natural Language :: Spanish',
         'Operating System :: OS Independent',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy',
         'Topic :: Office/Business',
         ],
     license='GPL-3',
+    python_requires='>=3.4',
     install_requires=requires,
     extras_require={
         'GeoNames': [get_require_version('proteus')],
@@ -123,5 +122,4 @@ setup(name=name,
     """,
     test_suite='tests',
     test_loader='trytond.test_loader:Loader',
-    use_2to3=True,
     )
