@@ -4,195 +4,201 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "field:country.country,active:"
 msgid "Active"
-msgstr "Activo"
+msgstr ""
 
 msgctxt "field:country.country,code3:"
 msgid "3-letters Code"
-msgstr "Código de 3 letras"
+msgstr ""
 
 msgctxt "field:country.country,code:"
 msgid "Code"
-msgstr "Código"
+msgstr ""
 
 msgctxt "field:country.country,code_numeric:"
 msgid "Numeric Code"
-msgstr "Código numérico"
+msgstr ""
 
 msgctxt "field:country.country,create_date:"
 msgid "Create Date"
-msgstr "Fecha de creación"
+msgstr ""
 
 msgctxt "field:country.country,create_uid:"
 msgid "Create User"
-msgstr "Usuario de creación"
+msgstr ""
 
 msgctxt "field:country.country,id:"
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
+#, fuzzy
 msgctxt "field:country.country,name:"
 msgid "Name"
-msgstr "Nombre"
+msgstr "Namu"
 
 msgctxt "field:country.country,rec_name:"
 msgid "Record Name"
-msgstr "Nombre del registro"
+msgstr ""
 
 msgctxt "field:country.country,subdivisions:"
 msgid "Subdivisions"
-msgstr "Subdivisiones"
+msgstr ""
 
 msgctxt "field:country.country,write_date:"
 msgid "Write Date"
-msgstr "Fecha de modificación"
+msgstr ""
 
 msgctxt "field:country.country,write_uid:"
 msgid "Write User"
-msgstr "Usuario de modificación"
+msgstr ""
 
 msgctxt "field:country.subdivision,active:"
 msgid "Active"
-msgstr "Activo"
+msgstr ""
 
 msgctxt "field:country.subdivision,code:"
 msgid "Code"
-msgstr "Código"
+msgstr ""
 
+#, fuzzy
 msgctxt "field:country.subdivision,country:"
 msgid "Country"
-msgstr "País"
+msgstr "Coventry"
 
 msgctxt "field:country.subdivision,create_date:"
 msgid "Create Date"
-msgstr "Fecha de creación"
+msgstr ""
 
 msgctxt "field:country.subdivision,create_uid:"
 msgid "Create User"
-msgstr "Usuario de creación"
+msgstr ""
 
 msgctxt "field:country.subdivision,id:"
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
+#, fuzzy
 msgctxt "field:country.subdivision,name:"
 msgid "Name"
-msgstr "Nombre"
+msgstr "Namu"
 
 msgctxt "field:country.subdivision,parent:"
 msgid "Parent"
-msgstr "Padre"
+msgstr ""
 
 msgctxt "field:country.subdivision,rec_name:"
 msgid "Record Name"
-msgstr "Nombre del registro"
+msgstr ""
 
 msgctxt "field:country.subdivision,type:"
 msgid "Type"
-msgstr "Tipo"
+msgstr ""
 
 msgctxt "field:country.subdivision,write_date:"
 msgid "Write Date"
-msgstr "Fecha de modificación"
+msgstr ""
 
 msgctxt "field:country.subdivision,write_uid:"
 msgid "Write User"
-msgstr "Usuario de modificación"
+msgstr ""
 
 msgctxt "field:country.zip,city:"
 msgid "City"
-msgstr "Ciudad"
+msgstr ""
 
+#, fuzzy
 msgctxt "field:country.zip,country:"
 msgid "Country"
-msgstr "País"
+msgstr "Coventry"
 
 msgctxt "field:country.zip,create_date:"
 msgid "Create Date"
-msgstr "Fecha de creación"
+msgstr ""
 
 msgctxt "field:country.zip,create_uid:"
 msgid "Create User"
-msgstr "Usuario de creación"
+msgstr ""
 
 msgctxt "field:country.zip,id:"
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 msgctxt "field:country.zip,rec_name:"
 msgid "Record Name"
-msgstr "Nombre del registro"
+msgstr ""
 
 msgctxt "field:country.zip,subdivision:"
 msgid "Subdivision"
-msgstr "Subdivisión"
+msgstr ""
 
 msgctxt "field:country.zip,write_date:"
 msgid "Write Date"
-msgstr "Fecha de modificación"
+msgstr ""
 
 msgctxt "field:country.zip,write_uid:"
 msgid "Write User"
-msgstr "Usuario de modificación"
+msgstr ""
 
+#, fuzzy
 msgctxt "field:country.zip,zip:"
 msgid "Zip"
-msgstr "Código postal"
+msgstr "Zip"
 
 msgctxt "help:country.country,active:"
 msgid "Uncheck to exclude from future use."
-msgstr "Desmarcar para excluir de uso en el futuro."
+msgstr ""
 
 msgctxt "help:country.country,code3:"
 msgid "The 3 chars ISO country code."
-msgstr "El código ISO de 3 dígitos del país."
+msgstr ""
 
 msgctxt "help:country.country,code:"
 msgid "The 2 chars ISO country code."
-msgstr "El código ISO de 2 dígitos del país."
+msgstr ""
 
 msgctxt "help:country.country,code_numeric:"
 msgid "The ISO numeric country code."
-msgstr "El código númerico ISO del país."
+msgstr ""
 
 msgctxt "help:country.country,name:"
 msgid "The main identifier of the country."
-msgstr "El identificador principal del país."
+msgstr ""
 
 msgctxt "help:country.subdivision,active:"
 msgid "Uncheck to exclude from future use."
-msgstr "Desmarcar para excluir de uso en el futuro."
+msgstr ""
 
 msgctxt "help:country.subdivision,code:"
 msgid "The ISO code of the subdivision."
-msgstr "El código ISO de la subdivisión."
+msgstr ""
 
 msgctxt "help:country.subdivision,country:"
 msgid "The country where this subdivision is."
-msgstr "El país donde se encuentra la subdivisión."
+msgstr ""
 
 msgctxt "help:country.subdivision,name:"
 msgid "The main identifier of the subdivision."
-msgstr "El identificador principal de la subdivisión."
+msgstr ""
 
 msgctxt "help:country.subdivision,parent:"
 msgid "Add subdivision below the parent."
-msgstr "Añadir subdivisiones debajo del padre."
+msgstr ""
 
 msgctxt "help:country.zip,city:"
 msgid "The name of the city for the zip."
-msgstr "El nombre de la ciudad del código postal."
+msgstr ""
 
 msgctxt "help:country.zip,country:"
 msgid "The country where the zip is."
-msgstr "El país donde se encuentra el código postal."
+msgstr ""
 
 msgctxt "help:country.zip,subdivision:"
 msgid "The subdivision where the zip is."
-msgstr "La subdivisión dónde se encuentra el código postal."
+msgstr ""
 
+#, fuzzy
 msgctxt "model:country.country,name:"
 msgid "Country"
-msgstr "País"
+msgstr "Coventry"
 
 msgctxt "model:country.country,name:ad"
 msgid "Andorra"
@@ -200,19 +206,19 @@ msgstr "Andorra"
 
 msgctxt "model:country.country,name:ae"
 msgid "United Arab Emirates"
-msgstr "Emiratos Árabes Unidos"
+msgstr "Yhdistyneet arabiemiirikunnat"
 
 msgctxt "model:country.country,name:af"
 msgid "Afghanistan"
-msgstr "Afganistán"
+msgstr "Afghanistan"
 
 msgctxt "model:country.country,name:ag"
 msgid "Antigua and Barbuda"
-msgstr "Antigua y Barbuda"
+msgstr "Antigua ja Barbuda"
 
 msgctxt "model:country.country,name:ai"
 msgid "Anguilla"
-msgstr "Anguila"
+msgstr "Anguilla"
 
 msgctxt "model:country.country,name:al"
 msgid "Albania"
@@ -228,19 +234,19 @@ msgstr "Angola"
 
 msgctxt "model:country.country,name:aq"
 msgid "Antarctica"
-msgstr "Antártida"
+msgstr "Antarktis"
 
 msgctxt "model:country.country,name:ar"
 msgid "Argentina"
-msgstr "Argentina"
+msgstr "Argentiina"
 
 msgctxt "model:country.country,name:as"
 msgid "American Samoa"
-msgstr "Samoa Americana"
+msgstr "Amerikan Samoa"
 
 msgctxt "model:country.country,name:at"
 msgid "Austria"
-msgstr "Austria"
+msgstr "Itävalta"
 
 msgctxt "model:country.country,name:au"
 msgid "Australia"
@@ -252,15 +258,15 @@ msgstr "Aruba"
 
 msgctxt "model:country.country,name:ax"
 msgid "Åland Islands"
-msgstr "Islas Äland"
+msgstr "Ahvenanmaa"
 
 msgctxt "model:country.country,name:az"
 msgid "Azerbaijan"
-msgstr "Azerbayán"
+msgstr "Azerbaidžan"
 
 msgctxt "model:country.country,name:ba"
 msgid "Bosnia and Herzegovina"
-msgstr "Bosnia y Herzegovina"
+msgstr "Bosnia-Hertsegovina"
 
 msgctxt "model:country.country,name:bb"
 msgid "Barbados"
@@ -272,11 +278,11 @@ msgstr "Bangladesh"
 
 msgctxt "model:country.country,name:be"
 msgid "Belgium"
-msgstr "Bélgica"
+msgstr "Belgia"
 
 msgctxt "model:country.country,name:bf"
 msgid "Burkina Faso"
-msgstr "Burquina Faso"
+msgstr "Burkina Faso"
 
 msgctxt "model:country.country,name:bg"
 msgid "Bulgaria"
@@ -284,7 +290,7 @@ msgstr "Bulgaria"
 
 msgctxt "model:country.country,name:bh"
 msgid "Bahrain"
-msgstr "Bahrein"
+msgstr "Bahrain"
 
 msgctxt "model:country.country,name:bi"
 msgid "Burundi"
@@ -292,87 +298,87 @@ msgstr "Burundi"
 
 msgctxt "model:country.country,name:bj"
 msgid "Benin"
-msgstr "Benín"
+msgstr "Benin"
 
 msgctxt "model:country.country,name:bl"
 msgid "Saint Barthélemy"
-msgstr "San Bartolomé"
+msgstr "Saint Barthélemy"
 
 msgctxt "model:country.country,name:bm"
 msgid "Bermuda"
-msgstr "Islas Bermudas"
+msgstr "Bermuda"
 
 msgctxt "model:country.country,name:bn"
 msgid "Brunei Darussalam"
-msgstr "Brunei Darussalam"
+msgstr "Brunei Darussalamin valtio"
 
 msgctxt "model:country.country,name:bo"
 msgid "Bolivia, Plurinational State of"
-msgstr "Bolivia, Estado plurinacional de"
+msgstr "Bolivia, monikansallinen valtio"
 
 msgctxt "model:country.country,name:bq"
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr "Islas BES (Caribe Neerlandés)"
+msgstr "Bonaire, Sint Eustatius ja Saba"
 
 msgctxt "model:country.country,name:br"
 msgid "Brazil"
-msgstr "Brasil"
+msgstr "Brasilia"
 
 msgctxt "model:country.country,name:bs"
 msgid "Bahamas"
-msgstr "Bahamas"
+msgstr "Bahama"
 
 msgctxt "model:country.country,name:bt"
 msgid "Bhutan"
-msgstr "Bhután"
+msgstr "Bhutan"
 
 msgctxt "model:country.country,name:bv"
 msgid "Bouvet Island"
-msgstr "Isla Bouvet"
+msgstr "Bouvet'nsaari"
 
 msgctxt "model:country.country,name:bw"
 msgid "Botswana"
-msgstr "Botsuana"
+msgstr "Botswana"
 
 msgctxt "model:country.country,name:by"
 msgid "Belarus"
-msgstr "Bielorrusia"
+msgstr "Valko-Venäjä"
 
 msgctxt "model:country.country,name:bz"
 msgid "Belize"
-msgstr "Belice"
+msgstr "Belize"
 
 msgctxt "model:country.country,name:ca"
 msgid "Canada"
-msgstr "Canadá"
+msgstr "Kanada"
 
 msgctxt "model:country.country,name:cc"
 msgid "Cocos (Keeling) Islands"
-msgstr "Islas Cocos (Keeling)"
+msgstr "Kookossaaret"
 
 msgctxt "model:country.country,name:cd"
 msgid "Congo, The Democratic Republic of the"
-msgstr "Congo, República Democrática del"
+msgstr "Kongon demokraattinen tasavalta"
 
 msgctxt "model:country.country,name:cf"
 msgid "Central African Republic"
-msgstr "República Centro-africana"
+msgstr "Keski-Afrikan tasavalta"
 
 msgctxt "model:country.country,name:cg"
 msgid "Congo"
-msgstr "Congo"
+msgstr "Kongo"
 
 msgctxt "model:country.country,name:ch"
 msgid "Switzerland"
-msgstr "Suiza"
+msgstr "Sveitsi"
 
 msgctxt "model:country.country,name:ci"
 msgid "Côte d'Ivoire"
-msgstr "Costa de Marfíl"
+msgstr "Norsunluurannikko"
 
 msgctxt "model:country.country,name:ck"
 msgid "Cook Islands"
-msgstr "Islas Cook"
+msgstr "Cookinsaaret"
 
 msgctxt "model:country.country,name:cl"
 msgid "Chile"
@@ -380,15 +386,15 @@ msgstr "Chile"
 
 msgctxt "model:country.country,name:cm"
 msgid "Cameroon"
-msgstr "Camerún"
+msgstr "Kamerun"
 
 msgctxt "model:country.country,name:cn"
 msgid "China"
-msgstr "China"
+msgstr "Kiina"
 
 msgctxt "model:country.country,name:co"
 msgid "Colombia"
-msgstr "Colombia"
+msgstr "Kolumbia"
 
 msgctxt "model:country.country,name:cr"
 msgid "Costa Rica"
@@ -396,7 +402,7 @@ msgstr "Costa Rica"
 
 msgctxt "model:country.country,name:cu"
 msgid "Cuba"
-msgstr "Cuba"
+msgstr "Kuuba"
 
 msgctxt "model:country.country,name:cv"
 msgid "Cabo Verde"
@@ -404,15 +410,15 @@ msgstr "Cabo Verde"
 
 msgctxt "model:country.country,name:cw"
 msgid "Curaçao"
-msgstr "Curasao"
+msgstr "Curaçao"
 
 msgctxt "model:country.country,name:cx"
 msgid "Christmas Island"
-msgstr "Isla de Navidad"
+msgstr "Joulusaari"
 
 msgctxt "model:country.country,name:cy"
 msgid "Cyprus"
-msgstr "Chipre"
+msgstr "Kypros"
 
 msgctxt "model:country.country,name:cz"
 msgid "Czechia"
@@ -420,15 +426,15 @@ msgstr "Czechia"
 
 msgctxt "model:country.country,name:de"
 msgid "Germany"
-msgstr "Alemania"
+msgstr "Saksa"
 
 msgctxt "model:country.country,name:dj"
 msgid "Djibouti"
-msgstr "Yibuti"
+msgstr "Djibouti"
 
 msgctxt "model:country.country,name:dk"
 msgid "Denmark"
-msgstr "Dinamarca"
+msgstr "Tanska"
 
 msgctxt "model:country.country,name:dm"
 msgid "Dominica"
@@ -436,7 +442,7 @@ msgstr "Dominica"
 
 msgctxt "model:country.country,name:do"
 msgid "Dominican Republic"
-msgstr "República Dominicana"
+msgstr "Dominikaaninen tasavalta"
 
 msgctxt "model:country.country,name:dz"
 msgid "Algeria"
@@ -448,15 +454,15 @@ msgstr "Ecuador"
 
 msgctxt "model:country.country,name:ee"
 msgid "Estonia"
-msgstr "Estonia"
+msgstr "Viro"
 
 msgctxt "model:country.country,name:eg"
 msgid "Egypt"
-msgstr "Egipto"
+msgstr "Egypti"
 
 msgctxt "model:country.country,name:eh"
 msgid "Western Sahara"
-msgstr "Sahara Occidental"
+msgstr "Länsi-Sahara"
 
 msgctxt "model:country.country,name:er"
 msgid "Eritrea"
@@ -464,47 +470,47 @@ msgstr "Eritrea"
 
 msgctxt "model:country.country,name:es"
 msgid "Spain"
-msgstr "España"
+msgstr "Espanja"
 
 msgctxt "model:country.country,name:et"
 msgid "Ethiopia"
-msgstr "Etiopía"
+msgstr "Etiopia"
 
 msgctxt "model:country.country,name:fi"
 msgid "Finland"
-msgstr "Finlandia"
+msgstr "Suomi"
 
 msgctxt "model:country.country,name:fj"
 msgid "Fiji"
-msgstr "Fiyi"
+msgstr "Fidži"
 
 msgctxt "model:country.country,name:fk"
 msgid "Falkland Islands (Malvinas)"
-msgstr "Islas Falkland (Malvinas)"
+msgstr "Falklandinsaaret"
 
 msgctxt "model:country.country,name:fm"
 msgid "Micronesia, Federated States of"
-msgstr "Micronesia, Estados Federados de"
+msgstr "Mikronesian liittovaltio"
 
 msgctxt "model:country.country,name:fo"
 msgid "Faroe Islands"
-msgstr "Islas Feroe"
+msgstr "Färsaaret"
 
 msgctxt "model:country.country,name:fr"
 msgid "France"
-msgstr "Francia"
+msgstr "Ranska"
 
 msgctxt "model:country.country,name:ga"
 msgid "Gabon"
-msgstr "Gabón"
+msgstr "Gabon"
 
 msgctxt "model:country.country,name:gb"
 msgid "United Kingdom"
-msgstr "Reino Unido"
+msgstr "Yhdistynyt kuningaskunta"
 
 msgctxt "model:country.country,name:gd"
 msgid "Grenada"
-msgstr "Granada"
+msgstr "Grenada"
 
 msgctxt "model:country.country,name:ge"
 msgid "Georgia"
@@ -512,7 +518,7 @@ msgstr "Georgia"
 
 msgctxt "model:country.country,name:gf"
 msgid "French Guiana"
-msgstr "Guayana Francesa"
+msgstr "Ranskan Guayana"
 
 msgctxt "model:country.country,name:gg"
 msgid "Guernsey"
@@ -528,7 +534,7 @@ msgstr "Gibraltar"
 
 msgctxt "model:country.country,name:gl"
 msgid "Greenland"
-msgstr "Groenlandia"
+msgstr "Grönlanti"
 
 msgctxt "model:country.country,name:gm"
 msgid "Gambia"
@@ -540,19 +546,19 @@ msgstr "Guinea"
 
 msgctxt "model:country.country,name:gp"
 msgid "Guadeloupe"
-msgstr "Guadalupe"
+msgstr "Guadeloupe"
 
 msgctxt "model:country.country,name:gq"
 msgid "Equatorial Guinea"
-msgstr "Guinea Ecuatorial"
+msgstr "Päiväntasaajan Guinea"
 
 msgctxt "model:country.country,name:gr"
 msgid "Greece"
-msgstr "Grecia"
+msgstr "Kreikka"
 
 msgctxt "model:country.country,name:gs"
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "Georgia del Sur e Islas Sandwitch del Sur"
+msgstr "Etelä-Georgia ja Eteläiset Sandwichinsaaret"
 
 msgctxt "model:country.country,name:gt"
 msgid "Guatemala"
@@ -576,7 +582,7 @@ msgstr "Hong Kong"
 
 msgctxt "model:country.country,name:hm"
 msgid "Heard Island and McDonald Islands"
-msgstr "Islas Heard e Islas McDonald"
+msgstr "Heard ja McDonaldinsaaret"
 
 msgctxt "model:country.country,name:hn"
 msgid "Honduras"
@@ -584,15 +590,15 @@ msgstr "Honduras"
 
 msgctxt "model:country.country,name:hr"
 msgid "Croatia"
-msgstr "Croacia"
+msgstr "Kroatia"
 
 msgctxt "model:country.country,name:ht"
 msgid "Haiti"
-msgstr "Haití"
+msgstr "Haiti"
 
 msgctxt "model:country.country,name:hu"
 msgid "Hungary"
-msgstr "Hungría"
+msgstr "Unkari"
 
 msgctxt "model:country.country,name:id"
 msgid "Indonesia"
@@ -600,7 +606,7 @@ msgstr "Indonesia"
 
 msgctxt "model:country.country,name:ie"
 msgid "Ireland"
-msgstr "Irlanda"
+msgstr "Irlanti"
 
 msgctxt "model:country.country,name:il"
 msgid "Israel"
@@ -608,15 +614,15 @@ msgstr "Israel"
 
 msgctxt "model:country.country,name:im"
 msgid "Isle of Man"
-msgstr "Isla de Man"
+msgstr "Mansaari"
 
 msgctxt "model:country.country,name:in"
 msgid "India"
-msgstr "India"
+msgstr "Intia"
 
 msgctxt "model:country.country,name:io"
 msgid "British Indian Ocean Territory"
-msgstr "Británico del Océano Índico, Territorio"
+msgstr "Brittiläinen Intian valtameren alue"
 
 msgctxt "model:country.country,name:iq"
 msgid "Iraq"
@@ -624,11 +630,11 @@ msgstr "Irak"
 
 msgctxt "model:country.country,name:ir"
 msgid "Iran, Islamic Republic of"
-msgstr "Irán, República islámica de"
+msgstr "Iranin islamilainen tasavalta"
 
 msgctxt "model:country.country,name:is"
 msgid "Iceland"
-msgstr "Islandia"
+msgstr "Islanti"
 
 msgctxt "model:country.country,name:it"
 msgid "Italy"
@@ -640,7 +646,7 @@ msgstr "Jersey"
 
 msgctxt "model:country.country,name:jm"
 msgid "Jamaica"
-msgstr "Jamaica"
+msgstr "Jamaika"
 
 msgctxt "model:country.country,name:jo"
 msgid "Jordan"
@@ -648,7 +654,7 @@ msgstr "Jordania"
 
 msgctxt "model:country.country,name:jp"
 msgid "Japan"
-msgstr "Japón"
+msgstr "Japani"
 
 msgctxt "model:country.country,name:ke"
 msgid "Kenya"
@@ -656,11 +662,11 @@ msgstr "Kenia"
 
 msgctxt "model:country.country,name:kg"
 msgid "Kyrgyzstan"
-msgstr "Kirgizstán"
+msgstr "Kirgisia"
 
 msgctxt "model:country.country,name:kh"
 msgid "Cambodia"
-msgstr "Camboya"
+msgstr "Kambodža"
 
 msgctxt "model:country.country,name:ki"
 msgid "Kiribati"
@@ -668,19 +674,19 @@ msgstr "Kiribati"
 
 msgctxt "model:country.country,name:km"
 msgid "Comoros"
-msgstr "Comores, Islas"
+msgstr "Komorit"
 
 msgctxt "model:country.country,name:kn"
 msgid "Saint Kitts and Nevis"
-msgstr "San Cristobo y Nevis"
+msgstr "Saint Kitts ja Nevis"
 
 msgctxt "model:country.country,name:kp"
 msgid "Korea, Democratic People's Republic of"
-msgstr "Corea, República Democrática Popular de"
+msgstr "Korean demokraattinen kansantasavalta"
 
 msgctxt "model:country.country,name:kr"
 msgid "Korea, Republic of"
-msgstr "Corea, República de"
+msgstr "Korean tasavalta"
 
 msgctxt "model:country.country,name:kw"
 msgid "Kuwait"
@@ -688,23 +694,23 @@ msgstr "Kuwait"
 
 msgctxt "model:country.country,name:ky"
 msgid "Cayman Islands"
-msgstr "Islas Caimán"
+msgstr "Caymansaaret"
 
 msgctxt "model:country.country,name:kz"
 msgid "Kazakhstan"
-msgstr "Kazajistán"
+msgstr "Kazakstan"
 
 msgctxt "model:country.country,name:la"
 msgid "Lao People's Democratic Republic"
-msgstr "República Democrática Popular de Lao"
+msgstr "Laos"
 
 msgctxt "model:country.country,name:lb"
 msgid "Lebanon"
-msgstr "Líbano"
+msgstr "Libanon"
 
 msgctxt "model:country.country,name:lc"
 msgid "Saint Lucia"
-msgstr "Santa Lucía"
+msgstr "Saint Lucia"
 
 msgctxt "model:country.country,name:li"
 msgid "Liechtenstein"
@@ -720,35 +726,35 @@ msgstr "Liberia"
 
 msgctxt "model:country.country,name:ls"
 msgid "Lesotho"
-msgstr "Lesoto"
+msgstr "Lesotho"
 
 msgctxt "model:country.country,name:lt"
 msgid "Lithuania"
-msgstr "Lituania"
+msgstr "Liettua"
 
 msgctxt "model:country.country,name:lu"
 msgid "Luxembourg"
-msgstr "Luxemburgo"
+msgstr "Luxemburg"
 
 msgctxt "model:country.country,name:lv"
 msgid "Latvia"
-msgstr "Letonia"
+msgstr "Latvia"
 
 msgctxt "model:country.country,name:ly"
 msgid "Libya"
-msgstr "Libia"
+msgstr "Libya"
 
 msgctxt "model:country.country,name:ma"
 msgid "Morocco"
-msgstr "Marruecos"
+msgstr "Marokko"
 
 msgctxt "model:country.country,name:mc"
 msgid "Monaco"
-msgstr "Mónaco"
+msgstr "Monaco"
 
 msgctxt "model:country.country,name:md"
 msgid "Moldova, Republic of"
-msgstr "Moldavia, República de"
+msgstr "Moldovan tasavalta"
 
 msgctxt "model:country.country,name:me"
 msgid "Montenegro"
@@ -756,19 +762,19 @@ msgstr "Montenegro"
 
 msgctxt "model:country.country,name:mf"
 msgid "Saint Martin (French part)"
-msgstr "San Martín (zona francesa)"
+msgstr "Saint-Martin (ranskalainen osa)"
 
 msgctxt "model:country.country,name:mg"
 msgid "Madagascar"
-msgstr "Madagascar"
+msgstr "Madagaskar"
 
 msgctxt "model:country.country,name:mh"
 msgid "Marshall Islands"
-msgstr "Islas Marshall"
+msgstr "Marshallinsaaret"
 
 msgctxt "model:country.country,name:mk"
 msgid "Macedonia, Republic of"
-msgstr "Macedonia, República de"
+msgstr "Makedonian tasavalta"
 
 msgctxt "model:country.country,name:ml"
 msgid "Mali"
@@ -776,7 +782,7 @@ msgstr "Mali"
 
 msgctxt "model:country.country,name:mm"
 msgid "Myanmar"
-msgstr "Birmania"
+msgstr "Myanmar"
 
 msgctxt "model:country.country,name:mn"
 msgid "Mongolia"
@@ -788,11 +794,11 @@ msgstr "Macao"
 
 msgctxt "model:country.country,name:mp"
 msgid "Northern Mariana Islands"
-msgstr "Islas Marianas del Norte"
+msgstr "Pohjois-Mariaanit"
 
 msgctxt "model:country.country,name:mq"
 msgid "Martinique"
-msgstr "Martinica"
+msgstr "Martinique"
 
 msgctxt "model:country.country,name:mr"
 msgid "Mauritania"
@@ -808,11 +814,11 @@ msgstr "Malta"
 
 msgctxt "model:country.country,name:mu"
 msgid "Mauritius"
-msgstr "Mauricio"
+msgstr "Mauritius"
 
 msgctxt "model:country.country,name:mv"
 msgid "Maldives"
-msgstr "Islas Maldivas"
+msgstr "Malediivit"
 
 msgctxt "model:country.country,name:mw"
 msgid "Malawi"
@@ -820,15 +826,15 @@ msgstr "Malawi"
 
 msgctxt "model:country.country,name:mx"
 msgid "Mexico"
-msgstr "México"
+msgstr "Meksiko"
 
 msgctxt "model:country.country,name:my"
 msgid "Malaysia"
-msgstr "Malasia"
+msgstr "Malesia"
 
 msgctxt "model:country.country,name:mz"
 msgid "Mozambique"
-msgstr "Mozambique"
+msgstr "Mosambik"
 
 msgctxt "model:country.country,name:na"
 msgid "Namibia"
@@ -836,7 +842,7 @@ msgstr "Namibia"
 
 msgctxt "model:country.country,name:nc"
 msgid "New Caledonia"
-msgstr "Nueva Caledonia"
+msgstr "Uusi-Kaledonia"
 
 msgctxt "model:country.country,name:ne"
 msgid "Niger"
@@ -844,7 +850,7 @@ msgstr "Niger"
 
 msgctxt "model:country.country,name:nf"
 msgid "Norfolk Island"
-msgstr "Isla Norfolk"
+msgstr "Norfolkinsaari"
 
 msgctxt "model:country.country,name:ng"
 msgid "Nigeria"
@@ -856,11 +862,11 @@ msgstr "Nicaragua"
 
 msgctxt "model:country.country,name:nl"
 msgid "Netherlands"
-msgstr "Países Bajos"
+msgstr "Alankomaat"
 
 msgctxt "model:country.country,name:no"
 msgid "Norway"
-msgstr "Noruega"
+msgstr "Norja"
 
 msgctxt "model:country.country,name:np"
 msgid "Nepal"
@@ -876,43 +882,43 @@ msgstr "Niue"
 
 msgctxt "model:country.country,name:nz"
 msgid "New Zealand"
-msgstr "Nueva Zelanda"
+msgstr "Uusi-Seelanti"
 
 msgctxt "model:country.country,name:om"
 msgid "Oman"
-msgstr "Omán"
+msgstr "Oman"
 
 msgctxt "model:country.country,name:pa"
 msgid "Panama"
-msgstr "Panamá"
+msgstr "Panama"
 
 msgctxt "model:country.country,name:pe"
 msgid "Peru"
-msgstr "Perú"
+msgstr "Peru"
 
 msgctxt "model:country.country,name:pf"
 msgid "French Polynesia"
-msgstr "Polinesia Francesa"
+msgstr "Ranskan Polynesia"
 
 msgctxt "model:country.country,name:pg"
 msgid "Papua New Guinea"
-msgstr "Papúa Nueva Guinea"
+msgstr "Papua-Uusi-Guinea"
 
 msgctxt "model:country.country,name:ph"
 msgid "Philippines"
-msgstr "Filipinas"
+msgstr "Filippiinit"
 
 msgctxt "model:country.country,name:pk"
 msgid "Pakistan"
-msgstr "Pakistán"
+msgstr "Pakistan"
 
 msgctxt "model:country.country,name:pl"
 msgid "Poland"
-msgstr "Polonia"
+msgstr "Puola"
 
 msgctxt "model:country.country,name:pm"
 msgid "Saint Pierre and Miquelon"
-msgstr "San Pedro y Miquelon"
+msgstr "Saint-Pierre ja Miquelon"
 
 msgctxt "model:country.country,name:pn"
 msgid "Pitcairn"
@@ -924,11 +930,11 @@ msgstr "Puerto Rico"
 
 msgctxt "model:country.country,name:ps"
 msgid "Palestine, State of"
-msgstr "Palestina, Estado de"
+msgstr "Palestine, State of"
 
 msgctxt "model:country.country,name:pt"
 msgid "Portugal"
-msgstr "Portugal"
+msgstr "Portugali"
 
 msgctxt "model:country.country,name:pw"
 msgid "Palau"
@@ -944,11 +950,11 @@ msgstr "Qatar"
 
 msgctxt "model:country.country,name:re"
 msgid "Réunion"
-msgstr "Reunión"
+msgstr "Réunion"
 
 msgctxt "model:country.country,name:ro"
 msgid "Romania"
-msgstr "Rumanía"
+msgstr "Romania"
 
 msgctxt "model:country.country,name:rs"
 msgid "Serbia"
@@ -956,7 +962,7 @@ msgstr "Serbia"
 
 msgctxt "model:country.country,name:ru"
 msgid "Russian Federation"
-msgstr "Federación Rusa"
+msgstr "Venäjän federaatio"
 
 msgctxt "model:country.country,name:rw"
 msgid "Rwanda"
@@ -964,47 +970,47 @@ msgstr "Ruanda"
 
 msgctxt "model:country.country,name:sa"
 msgid "Saudi Arabia"
-msgstr "Arabia Saudí"
+msgstr "Saudi-Arabia"
 
 msgctxt "model:country.country,name:sb"
 msgid "Solomon Islands"
-msgstr "Islas Salomón"
+msgstr "Salomonsaaret"
 
 msgctxt "model:country.country,name:sc"
 msgid "Seychelles"
-msgstr "Seychelles"
+msgstr "Seychellit"
 
 msgctxt "model:country.country,name:sd"
 msgid "Sudan"
-msgstr "Sudán"
+msgstr "Sudan"
 
 msgctxt "model:country.country,name:se"
 msgid "Sweden"
-msgstr "Suecia"
+msgstr "Ruotsi"
 
 msgctxt "model:country.country,name:sg"
 msgid "Singapore"
-msgstr "Singapur"
+msgstr "Singapore"
 
 msgctxt "model:country.country,name:sh"
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr "Santa Elena, Ascensión y Tristán de Acuña"
+msgstr "Saint Helena, Ascension ja Tristan da Cunha"
 
 msgctxt "model:country.country,name:si"
 msgid "Slovenia"
-msgstr "Eslovenia"
+msgstr "Slovenia"
 
 msgctxt "model:country.country,name:sj"
 msgid "Svalbard and Jan Mayen"
-msgstr "Svalbard y Jan Mayen"
+msgstr "Svalbard ja Jan Mayen"
 
 msgctxt "model:country.country,name:sk"
 msgid "Slovakia"
-msgstr "Eslovaquia"
+msgstr "Slovakia"
 
 msgctxt "model:country.country,name:sl"
 msgid "Sierra Leone"
-msgstr "Sierra Leona"
+msgstr "Sierra Leone"
 
 msgctxt "model:country.country,name:sm"
 msgid "San Marino"
@@ -1020,15 +1026,15 @@ msgstr "Somalia"
 
 msgctxt "model:country.country,name:sr"
 msgid "Suriname"
-msgstr "Surinám"
+msgstr "Suriname"
 
 msgctxt "model:country.country,name:ss"
 msgid "South Sudan"
-msgstr "Sudán del Sur"
+msgstr "Etelä-Sudan"
 
 msgctxt "model:country.country,name:st"
 msgid "Sao Tome and Principe"
-msgstr "Santo Tomé y Príncipe"
+msgstr "São Tomé ja Príncipe"
 
 msgctxt "model:country.country,name:sv"
 msgid "El Salvador"
@@ -1036,27 +1042,27 @@ msgstr "El Salvador"
 
 msgctxt "model:country.country,name:sx"
 msgid "Sint Maarten (Dutch part)"
-msgstr "Isla de San Martín (zona holandsea)"
+msgstr "Sint Maarten (hollantilainen osa)"
 
 msgctxt "model:country.country,name:sy"
 msgid "Syrian Arab Republic"
-msgstr "República árabe de Siria"
+msgstr "Syyrian arabitasavalta"
 
 msgctxt "model:country.country,name:sz"
 msgid "Swaziland"
-msgstr "Swazilandia"
+msgstr "Swazimaa"
 
 msgctxt "model:country.country,name:tc"
 msgid "Turks and Caicos Islands"
-msgstr "Turks y Caicos, Islas"
+msgstr "Turks- ja Caicossaaret"
 
 msgctxt "model:country.country,name:td"
 msgid "Chad"
-msgstr "Chad"
+msgstr "Tšad"
 
 msgctxt "model:country.country,name:tf"
 msgid "French Southern Territories"
-msgstr "Territorios Franceses del Sur"
+msgstr "Ranskan eteläiset alueet"
 
 msgctxt "model:country.country,name:tg"
 msgid "Togo"
@@ -1064,11 +1070,11 @@ msgstr "Togo"
 
 msgctxt "model:country.country,name:th"
 msgid "Thailand"
-msgstr "Tailandia"
+msgstr "Thaimaa"
 
 msgctxt "model:country.country,name:tj"
 msgid "Tajikistan"
-msgstr "Tadjikistán"
+msgstr "Tadžikistan"
 
 msgctxt "model:country.country,name:tk"
 msgid "Tokelau"
@@ -1076,15 +1082,15 @@ msgstr "Tokelau"
 
 msgctxt "model:country.country,name:tl"
 msgid "Timor-Leste"
-msgstr "Timor Oriental"
+msgstr "Itä-Timor"
 
 msgctxt "model:country.country,name:tm"
 msgid "Turkmenistan"
-msgstr "Turkmenistán"
+msgstr "Turkmenistan"
 
 msgctxt "model:country.country,name:tn"
 msgid "Tunisia"
-msgstr "Tunez"
+msgstr "Tunisia"
 
 msgctxt "model:country.country,name:to"
 msgid "Tonga"
@@ -1092,11 +1098,11 @@ msgstr "Tonga"
 
 msgctxt "model:country.country,name:tr"
 msgid "Turkey"
-msgstr "Turquía"
+msgstr "Turkki"
 
 msgctxt "model:country.country,name:tt"
 msgid "Trinidad and Tobago"
-msgstr "Trinidad y Tobago"
+msgstr "Trinidad ja Tobago"
 
 msgctxt "model:country.country,name:tv"
 msgid "Tuvalu"
@@ -1104,15 +1110,15 @@ msgstr "Tuvalu"
 
 msgctxt "model:country.country,name:tw"
 msgid "Taiwan, Province of China"
-msgstr "Taiwán, Provincia de China"
+msgstr "Taiwan, Kiinan provinssi"
 
 msgctxt "model:country.country,name:tz"
 msgid "Tanzania, United Republic of"
-msgstr "Tanzania, República unida de"
+msgstr "Tansanian yhdistynyt tasavalta"
 
 msgctxt "model:country.country,name:ua"
 msgid "Ukraine"
-msgstr "Ucrania"
+msgstr "Ukraina"
 
 msgctxt "model:country.country,name:ug"
 msgid "Uganda"
@@ -1120,11 +1126,11 @@ msgstr "Uganda"
 
 msgctxt "model:country.country,name:um"
 msgid "United States Minor Outlying Islands"
-msgstr "Islas menores exteriores de Estados Unidos"
+msgstr "Yhdysvaltain pienet erillissaaret"
 
 msgctxt "model:country.country,name:us"
 msgid "United States"
-msgstr "Estados Unidos"
+msgstr "Yhdysvallat"
 
 msgctxt "model:country.country,name:uy"
 msgid "Uruguay"
@@ -1132,27 +1138,27 @@ msgstr "Uruguay"
 
 msgctxt "model:country.country,name:uz"
 msgid "Uzbekistan"
-msgstr "Uzbekistán"
+msgstr "Uzbekistan"
 
 msgctxt "model:country.country,name:va"
 msgid "Holy See (Vatican City State)"
-msgstr "Santa Sede (Ciudad Estado del Vaticano)"
+msgstr "Pyhä istuin (Vatikaanivaltio)"
 
 msgctxt "model:country.country,name:vc"
 msgid "Saint Vincent and the Grenadines"
-msgstr "San Vicente y las Granadinas"
+msgstr "Saint Vincent ja Grenadiinit"
 
 msgctxt "model:country.country,name:ve"
 msgid "Venezuela, Bolivarian Republic of"
-msgstr "Venezuela, República Bolivariana de"
+msgstr "Venezuelan bolivariaanien tasavalta"
 
 msgctxt "model:country.country,name:vg"
 msgid "Virgin Islands, British"
-msgstr "Islas Vírgenes, Británicas"
+msgstr "Neitsytsaaret, Brittiläiset"
 
 msgctxt "model:country.country,name:vi"
 msgid "Virgin Islands, U.S."
-msgstr "Islas Vírgenes, de EEUU"
+msgstr "Neitsytsaaret, Yhdysvaltain"
 
 msgctxt "model:country.country,name:vn"
 msgid "Viet Nam"
@@ -1164,7 +1170,7 @@ msgstr "Vanuatu"
 
 msgctxt "model:country.country,name:wf"
 msgid "Wallis and Futuna"
-msgstr "Wallis y Futuna"
+msgstr "Wallis ja Futuna"
 
 msgctxt "model:country.country,name:ws"
 msgid "Samoa"
@@ -1172,7 +1178,7 @@ msgstr "Samoa"
 
 msgctxt "model:country.country,name:ye"
 msgid "Yemen"
-msgstr "Yemen"
+msgstr "Jemen"
 
 msgctxt "model:country.country,name:yt"
 msgid "Mayotte"
@@ -1180,19 +1186,19 @@ msgstr "Mayotte"
 
 msgctxt "model:country.country,name:za"
 msgid "South Africa"
-msgstr "Suráfrica"
+msgstr "Etelä-Afrikka"
 
 msgctxt "model:country.country,name:zm"
 msgid "Zambia"
-msgstr "Zambia"
+msgstr "Sambia"
 
 msgctxt "model:country.country,name:zw"
 msgid "Zimbabwe"
-msgstr "Zimbabue"
+msgstr "Zimbabwe"
 
 msgctxt "model:country.subdivision,name:"
 msgid "Subdivision"
-msgstr "Subdivisión"
+msgstr ""
 
 msgctxt "model:country.subdivision,name:ad-02"
 msgid "Canillo"
@@ -3552,7 +3558,7 @@ msgstr "Vicebskaja voblasc'"
 
 msgctxt "model:country.subdivision,name:bz-bz"
 msgid "Belize"
-msgstr "Belice"
+msgstr "Belize"
 
 msgctxt "model:country.subdivision,name:bz-cy"
 msgid "Cayo"
@@ -5064,7 +5070,7 @@ msgstr "Dikhil"
 
 msgctxt "model:country.subdivision,name:dj-dj"
 msgid "Djibouti"
-msgstr "Djibuti"
+msgstr "Djibouti"
 
 msgctxt "model:country.subdivision,name:dj-ob"
 msgid "Obock"
@@ -5928,7 +5934,7 @@ msgstr "Asturias"
 
 msgctxt "model:country.subdivision,name:es-or"
 msgid "Ourense"
-msgstr "Orense"
+msgstr "Ourense"
 
 msgctxt "model:country.subdivision,name:es-p"
 msgid "Palencia"
@@ -13996,7 +14002,7 @@ msgstr "Nassarawa"
 
 msgctxt "model:country.subdivision,name:ng-ni"
 msgid "Niger"
-msgstr "Níger"
+msgstr "Niger"
 
 msgctxt "model:country.subdivision,name:ng-og"
 msgid "Ogun"
@@ -14180,79 +14186,79 @@ msgstr "Zuid-Holland"
 
 msgctxt "model:country.subdivision,name:no-01"
 msgid "Østfold"
-msgstr "Østfold"
+msgstr "Østfoldin lääni"
 
 msgctxt "model:country.subdivision,name:no-02"
 msgid "Akershus"
-msgstr "Akershus"
+msgstr "Akershusin lääni"
 
 msgctxt "model:country.subdivision,name:no-03"
 msgid "Oslo"
-msgstr "Oslo"
+msgstr "Oslon lääni"
 
 msgctxt "model:country.subdivision,name:no-04"
 msgid "Hedmark"
-msgstr "Hedmark"
+msgstr "Hedmarkin lääni"
 
 msgctxt "model:country.subdivision,name:no-05"
 msgid "Oppland"
-msgstr "Oppland"
+msgstr "Opplandin lääni"
 
 msgctxt "model:country.subdivision,name:no-06"
 msgid "Buskerud"
-msgstr "Buskerud"
+msgstr "Buskerudin lääni"
 
 msgctxt "model:country.subdivision,name:no-07"
 msgid "Vestfold"
-msgstr "Vestfold"
+msgstr "Vestfoldin lääni"
 
 msgctxt "model:country.subdivision,name:no-08"
 msgid "Telemark"
-msgstr "Telemark"
+msgstr "Telemarkin lääni"
 
 msgctxt "model:country.subdivision,name:no-09"
 msgid "Aust-Agder"
-msgstr "Aust-Agder"
+msgstr "Itä-Agderin lääni"
 
 msgctxt "model:country.subdivision,name:no-10"
 msgid "Vest-Agder"
-msgstr "Vest-Agder"
+msgstr "Länsi-Agderin lääni"
 
 msgctxt "model:country.subdivision,name:no-11"
 msgid "Rogaland"
-msgstr "Rogaland"
+msgstr "Rogalandin lääni"
 
 msgctxt "model:country.subdivision,name:no-12"
 msgid "Hordaland"
-msgstr "Hordaland"
+msgstr "Hordalandin lääni"
 
 msgctxt "model:country.subdivision,name:no-14"
 msgid "Sogn og Fjordane"
-msgstr "Sogn og Fjordane"
+msgstr "Sogn ja Fjordanen lääni"
 
 msgctxt "model:country.subdivision,name:no-15"
 msgid "Møre og Romsdal"
-msgstr "Møre og Romsdal"
+msgstr "Møre ja Romsdalin lääni"
 
 msgctxt "model:country.subdivision,name:no-16"
 msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
+msgstr "Etelä-Trøndelagin lääni"
 
 msgctxt "model:country.subdivision,name:no-17"
 msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
+msgstr "Pohjois-Trøndelagin lääni"
 
 msgctxt "model:country.subdivision,name:no-18"
 msgid "Nordland"
-msgstr "Nordland"
+msgstr "Nordlandin lääni"
 
 msgctxt "model:country.subdivision,name:no-19"
 msgid "Troms"
-msgstr "Troms"
+msgstr "Tromssan lääni"
 
 msgctxt "model:country.subdivision,name:no-20"
 msgid "Finnmark"
-msgstr "Finnmark"
+msgstr "Finnmarkin lääni"
 
 msgctxt "model:country.subdivision,name:no-21"
 msgid "Svalbard (Arctic Region)"
@@ -15828,331 +15834,331 @@ msgstr "Vojvodina"
 
 msgctxt "model:country.subdivision,name:ru-ad"
 msgid "Adygeya, Respublika"
-msgstr "Adygeya, Respublika"
+msgstr "Adygeioan tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-al"
 msgid "Altay, Respublika"
-msgstr "Altay, Respublika"
+msgstr "Altain tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-alt"
 msgid "Altayskiy kray"
-msgstr "Altayskiy kray"
+msgstr "Altain aluepiiri"
 
 msgctxt "model:country.subdivision,name:ru-amu"
 msgid "Amurskaya oblast'"
-msgstr "Amurskaya oblast'"
+msgstr "Amurin alue"
 
 msgctxt "model:country.subdivision,name:ru-ark"
 msgid "Arkhangel'skaya oblast'"
-msgstr "Arkhangel'skaya oblast'"
+msgstr "Arkangelin alue"
 
 msgctxt "model:country.subdivision,name:ru-ast"
 msgid "Astrakhanskaya oblast'"
-msgstr "Astrakhanskaya oblast'"
+msgstr "Astrahanin alue"
 
 msgctxt "model:country.subdivision,name:ru-ba"
 msgid "Bashkortostan, Respublika"
-msgstr "Bashkortostan, Respublika"
+msgstr "Baškortostanin tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-bel"
 msgid "Belgorodskaya oblast'"
-msgstr "Belgorodskaya oblast'"
+msgstr "Belgorodin alue"
 
 msgctxt "model:country.subdivision,name:ru-bry"
 msgid "Bryanskaya oblast'"
-msgstr "Bryanskaya oblast'"
+msgstr "Brjanskin alue"
 
 msgctxt "model:country.subdivision,name:ru-bu"
 msgid "Buryatiya, Respublika"
-msgstr "Buryatiya, Respublika"
+msgstr "Burjatian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-ce"
 msgid "Chechenskaya Respublika"
-msgstr "Chechenskaya Respublika"
+msgstr "Tšetšenian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-che"
 msgid "Chelyabinskaya oblast'"
-msgstr "Chelyabinskaya oblast'"
+msgstr "Tšeljabinskin alue"
 
 msgctxt "model:country.subdivision,name:ru-chu"
 msgid "Chukotskiy avtonomnyy okrug"
-msgstr "Chukotskiy avtonomnyy okrug"
+msgstr "Tšukotkan autonominen piirikunta"
 
 msgctxt "model:country.subdivision,name:ru-cu"
 msgid "Chuvashskaya Respublika"
-msgstr "Chuvashskaya Respublika"
+msgstr "Tšuvassian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-da"
 msgid "Dagestan, Respublika"
-msgstr "Dagestan, Respublika"
+msgstr "Dagestanin tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-in"
 msgid "Respublika Ingushetiya"
-msgstr "Respublika Ingushetiya"
+msgstr "Ingušian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-irk"
 msgid "Irkutiskaya oblast'"
-msgstr "Irkutiskaya oblast'"
+msgstr "Irkutskin alue"
 
 msgctxt "model:country.subdivision,name:ru-iva"
 msgid "Ivanovskaya oblast'"
-msgstr "Ivanovskaya oblast'"
+msgstr "Ivanovon alue"
 
 msgctxt "model:country.subdivision,name:ru-kam"
 msgid "Kamchatskiy kray"
-msgstr "Kamchatskiy kray"
+msgstr "Kamtšatkan aluepiiri"
 
 msgctxt "model:country.subdivision,name:ru-kb"
 msgid "Kabardino-Balkarskaya Respublika"
-msgstr "Kabardino-Balkarskaya Respublika"
+msgstr "Kabardi-Balkarian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-kc"
 msgid "Karachayevo-Cherkesskaya Respublika"
-msgstr "Karachayevo-Cherkesskaya Respublika"
+msgstr "Karatšai-Tšerkessian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-kda"
 msgid "Krasnodarskiy kray"
-msgstr "Krasnodarskiy kray"
+msgstr "Krasnodarin aluepiiri"
 
 msgctxt "model:country.subdivision,name:ru-kem"
 msgid "Kemerovskaya oblast'"
-msgstr "Kemerovskaya oblast'"
+msgstr "Kemerovon alue"
 
 msgctxt "model:country.subdivision,name:ru-kgd"
 msgid "Kaliningradskaya oblast'"
-msgstr "Kaliningradskaya oblast'"
+msgstr "Kaliningradin alue"
 
 msgctxt "model:country.subdivision,name:ru-kgn"
 msgid "Kurganskaya oblast'"
-msgstr "Kurganskaya oblast'"
+msgstr "Kurganin alue"
 
 msgctxt "model:country.subdivision,name:ru-kha"
 msgid "Khabarovskiy kray"
-msgstr "Khabarovskiy kray"
+msgstr "Habrovskin aluepiiri"
 
 msgctxt "model:country.subdivision,name:ru-khm"
 msgid "Khanty-Mansiysky avtonomnyy okrug-Yugra"
-msgstr "Khanty-Mansiysky avtonomnyy okrug-Yugra"
+msgstr "Hanti-Mansian autonominen piirikunta"
 
 msgctxt "model:country.subdivision,name:ru-kir"
 msgid "Kirovskaya oblast'"
-msgstr "Kirovskaya oblast'"
+msgstr "Kirovin alue"
 
 msgctxt "model:country.subdivision,name:ru-kk"
 msgid "Khakasiya, Respublika"
-msgstr "Khakasiya, Respublika"
+msgstr "Hakassian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-kl"
 msgid "Kalmykiya, Respublika"
-msgstr "Kalmykiya, Respublika"
+msgstr "Kalmukian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-klu"
 msgid "Kaluzhskaya oblast'"
-msgstr "Kaluzhskaya oblast'"
+msgstr "Kalugan alue"
 
 msgctxt "model:country.subdivision,name:ru-ko"
 msgid "Komi, Respublika"
-msgstr "Komi, Respublika"
+msgstr "Komin tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-kos"
 msgid "Kostromskaya oblast'"
-msgstr "Kostromskaya oblast'"
+msgstr "Kostroman alue"
 
 msgctxt "model:country.subdivision,name:ru-kr"
 msgid "Kareliya, Respublika"
-msgstr "Kareliya, Respublika"
+msgstr "Karjalan tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-krs"
 msgid "Kurskaya oblast'"
-msgstr "Kurskaya oblast'"
+msgstr "Kurskin alue"
 
 msgctxt "model:country.subdivision,name:ru-kya"
 msgid "Krasnoyarskiy kray"
-msgstr "Krasnoyarskiy kray"
+msgstr "Krasnojarskin aluepiiri"
 
 msgctxt "model:country.subdivision,name:ru-len"
 msgid "Leningradskaya oblast'"
-msgstr "Leningradskaya oblast'"
+msgstr "Leningradin alue"
 
 msgctxt "model:country.subdivision,name:ru-lip"
 msgid "Lipetskaya oblast'"
-msgstr "Lipetskaya oblast'"
+msgstr "Lipetskin alue"
 
 msgctxt "model:country.subdivision,name:ru-mag"
 msgid "Magadanskaya oblast'"
-msgstr "Magadanskaya oblast'"
+msgstr "Magadanin alue"
 
 msgctxt "model:country.subdivision,name:ru-me"
 msgid "Mariy El, Respublika"
-msgstr "Mariy El, Respublika"
+msgstr "Marin tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-mo"
 msgid "Mordoviya, Respublika"
-msgstr "Mordoviya, Respublika"
+msgstr "Mordvan tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-mos"
 msgid "Moskovskaya oblast'"
-msgstr "Moskovskaya oblast'"
+msgstr "Moskovan alue"
 
 msgctxt "model:country.subdivision,name:ru-mow"
 msgid "Moskva"
-msgstr "Moskva"
+msgstr "Moskova"
 
 msgctxt "model:country.subdivision,name:ru-mur"
 msgid "Murmanskaya oblast'"
-msgstr "Murmanskaya oblast'"
+msgstr "Murmanskin alue"
 
 msgctxt "model:country.subdivision,name:ru-nen"
 msgid "Nenetskiy avtonomnyy okrug"
-msgstr "Nenetskiy avtonomnyy okrug"
+msgstr "Nenetsian autonominen piirikunta"
 
 msgctxt "model:country.subdivision,name:ru-ngr"
 msgid "Novgorodskaya oblast'"
-msgstr "Novgorodskaya oblast'"
+msgstr "Novgorodin alue"
 
 msgctxt "model:country.subdivision,name:ru-niz"
 msgid "Nizhegorodskaya oblast'"
-msgstr "Nizhegorodskaya oblast'"
+msgstr "Nižni Novgorodin alue"
 
 msgctxt "model:country.subdivision,name:ru-nvs"
 msgid "Novosibirskaya oblast'"
-msgstr "Novosibirskaya oblast'"
+msgstr "Novosibirskin alue"
 
 msgctxt "model:country.subdivision,name:ru-oms"
 msgid "Omskaya oblast'"
-msgstr "Omskaya oblast'"
+msgstr "Omskin alue"
 
 msgctxt "model:country.subdivision,name:ru-ore"
 msgid "Orenburgskaya oblast'"
-msgstr "Orenburgskaya oblast'"
+msgstr "Orenburgin alue"
 
 msgctxt "model:country.subdivision,name:ru-orl"
 msgid "Orlovskaya oblast'"
-msgstr "Orlovskaya oblast'"
+msgstr "Orjolin alue"
 
 msgctxt "model:country.subdivision,name:ru-per"
 msgid "Permskiy kray"
-msgstr "Permskiy kray"
+msgstr "Permin aluepiiri"
 
 msgctxt "model:country.subdivision,name:ru-pnz"
 msgid "Penzenskaya oblast'"
-msgstr "Penzenskaya oblast'"
+msgstr "Penzan alue"
 
 msgctxt "model:country.subdivision,name:ru-pri"
 msgid "Primorskiy kray"
-msgstr "Primorskiy kray"
+msgstr "Primorjen aluepiiri"
 
 msgctxt "model:country.subdivision,name:ru-psk"
 msgid "Pskovskaya oblast'"
-msgstr "Pskovskaya oblast'"
+msgstr "Pihkovan alue"
 
 msgctxt "model:country.subdivision,name:ru-ros"
 msgid "Rostovskaya oblast'"
-msgstr "Rostovskaya oblast'"
+msgstr "Rostovin alue"
 
 msgctxt "model:country.subdivision,name:ru-rya"
 msgid "Ryazanskaya oblast'"
-msgstr "Ryazanskaya oblast'"
+msgstr "Rjazanin alue"
 
 msgctxt "model:country.subdivision,name:ru-sa"
 msgid "Sakha, Respublika [Yakutiya]"
-msgstr "Sakha, Respublika [Yakutiya]"
+msgstr "Sahan tasavalta (Jakutia)"
 
 msgctxt "model:country.subdivision,name:ru-sak"
 msgid "Sakhalinskaya oblast'"
-msgstr "Sakhalinskaya oblast'"
+msgstr "Sahalinin alue"
 
 msgctxt "model:country.subdivision,name:ru-sam"
 msgid "Samaraskaya oblast'"
-msgstr "Samaraskaya oblast'"
+msgstr "Samaran alue"
 
 msgctxt "model:country.subdivision,name:ru-sar"
 msgid "Saratovskaya oblast'"
-msgstr "Saratovskaya oblast'"
+msgstr "Saratovin alue"
 
 msgctxt "model:country.subdivision,name:ru-se"
 msgid "Severnaya Osetiya-Alaniya, Respublika"
-msgstr "Severnaya Osetiya-Alaniya, Respublika"
+msgstr "Pohjois-Ossetia-Alanian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-smo"
 msgid "Smolenskaya oblast'"
-msgstr "Smolenskaya oblast'"
+msgstr "Smolenskin alue"
 
 msgctxt "model:country.subdivision,name:ru-spe"
 msgid "Sankt-Peterburg"
-msgstr "Sankt-Peterburg"
+msgstr "Pietari"
 
 msgctxt "model:country.subdivision,name:ru-sta"
 msgid "Stavropol'skiy kray"
-msgstr "Stavropol'skiy kray"
+msgstr "Stavropolin aluepiiri"
 
 msgctxt "model:country.subdivision,name:ru-sve"
 msgid "Sverdlovskaya oblast'"
-msgstr "Sverdlovskaya oblast'"
+msgstr "Sverdlovskin alue"
 
 msgctxt "model:country.subdivision,name:ru-ta"
 msgid "Tatarstan, Respublika"
-msgstr "Tatarstan, Respublika"
+msgstr "Tatarstanin tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-tam"
 msgid "Tambovskaya oblast'"
-msgstr "Tambovskaya oblast'"
+msgstr "Tambovin alue"
 
 msgctxt "model:country.subdivision,name:ru-tom"
 msgid "Tomskaya oblast'"
-msgstr "Tomskaya oblast'"
+msgstr "Tomskin alue"
 
 msgctxt "model:country.subdivision,name:ru-tul"
 msgid "Tul'skaya oblast'"
-msgstr "Tul'skaya oblast'"
+msgstr "Tulan alue"
 
 msgctxt "model:country.subdivision,name:ru-tve"
 msgid "Tverskaya oblast'"
-msgstr "Tverskaya oblast'"
+msgstr "Tverin alue"
 
 msgctxt "model:country.subdivision,name:ru-ty"
 msgid "Tyva, Respublika [Tuva]"
-msgstr "Tyva, Respublika [Tuva]"
+msgstr "Tuvan tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-tyu"
 msgid "Tyumenskaya oblast'"
-msgstr "Tyumenskaya oblast'"
+msgstr "Tjumenin alue"
 
 msgctxt "model:country.subdivision,name:ru-ud"
 msgid "Udmurtskaya Respublika"
-msgstr "Udmurtskaya Respublika"
+msgstr "Udmurtian tasavalta"
 
 msgctxt "model:country.subdivision,name:ru-uly"
 msgid "Ul'yanovskaya oblast'"
-msgstr "Ul'yanovskaya oblast'"
+msgstr "Uljanovskin alue"
 
 msgctxt "model:country.subdivision,name:ru-vgg"
 msgid "Volgogradskaya oblast'"
-msgstr "Volgogradskaya oblast'"
+msgstr "Volgogradin alue"
 
 msgctxt "model:country.subdivision,name:ru-vla"
 msgid "Vladimirskaya oblast'"
-msgstr "Vladimirskaya oblast'"
+msgstr "Vladimirin alue"
 
 msgctxt "model:country.subdivision,name:ru-vlg"
 msgid "Vologodskaya oblast'"
-msgstr "Vologodskaya oblast'"
+msgstr "Vologdan alue"
 
 msgctxt "model:country.subdivision,name:ru-vor"
 msgid "Voronezhskaya oblast'"
-msgstr "Voronezhskaya oblast'"
+msgstr "Voronežin alue"
 
 msgctxt "model:country.subdivision,name:ru-yan"
 msgid "Yamalo-Nenetskiy avtonomnyy okrug"
-msgstr "Yamalo-Nenetskiy avtonomnyy okrug"
+msgstr "Jamalin Nenetsian autonominen piirikunta"
 
 msgctxt "model:country.subdivision,name:ru-yar"
 msgid "Yaroslavskaya oblast'"
-msgstr "Yaroslavskaya oblast'"
+msgstr "Jaroslavin alue"
 
 msgctxt "model:country.subdivision,name:ru-yev"
 msgid "Yevreyskaya avtonomnaya oblast'"
-msgstr "Yevreyskaya avtonomnaya oblast'"
+msgstr "Juutalaisten autonominen alue"
 
 msgctxt "model:country.subdivision,name:ru-zab"
 msgid "Zabajkal'skij kraj"
@@ -16440,87 +16446,87 @@ msgstr "Sinnār"
 
 msgctxt "model:country.subdivision,name:se-ab"
 msgid "Stockholms län"
-msgstr "Stockholms län"
+msgstr "Tukholman lääni"
 
 msgctxt "model:country.subdivision,name:se-ac"
 msgid "Västerbottens län"
-msgstr "Västerbottens län"
+msgstr "Västerbottenin lääni"
 
 msgctxt "model:country.subdivision,name:se-bd"
 msgid "Norrbottens län"
-msgstr "Norrbottens län"
+msgstr "Norrbottenin lääni"
 
 msgctxt "model:country.subdivision,name:se-c"
 msgid "Uppsala län"
-msgstr "Uppsala län"
+msgstr "Uppsalan lääni"
 
 msgctxt "model:country.subdivision,name:se-d"
 msgid "Södermanlands län"
-msgstr "Södermanlands län"
+msgstr "Södermanlannin lääni"
 
 msgctxt "model:country.subdivision,name:se-e"
 msgid "Östergötlands län"
-msgstr "Östergötlands län"
+msgstr "Itä-Göötanmaan lääni"
 
 msgctxt "model:country.subdivision,name:se-f"
 msgid "Jönköpings län"
-msgstr "Jönköpings län"
+msgstr "Jönköpingin lääni"
 
 msgctxt "model:country.subdivision,name:se-g"
 msgid "Kronobergs län"
-msgstr "Kronobergs län"
+msgstr "Kronobergin lääni"
 
 msgctxt "model:country.subdivision,name:se-h"
 msgid "Kalmar län"
-msgstr "Kalmar län"
+msgstr "Kalmarin lääni"
 
 msgctxt "model:country.subdivision,name:se-i"
 msgid "Gotlands län"
-msgstr "Gotlands län"
+msgstr "Gotlannin lääni"
 
 msgctxt "model:country.subdivision,name:se-k"
 msgid "Blekinge län"
-msgstr "Blekinge län"
+msgstr "Blekingen lääni"
 
 msgctxt "model:country.subdivision,name:se-m"
 msgid "Skåne län"
-msgstr "Skåne län"
+msgstr "Skoonen lääni"
 
 msgctxt "model:country.subdivision,name:se-n"
 msgid "Hallands län"
-msgstr "Hallands län"
+msgstr "Hallannin lääni"
 
 msgctxt "model:country.subdivision,name:se-o"
 msgid "Västra Götalands län"
-msgstr "Västra Götalands län"
+msgstr "Länsi-Göötanmaan lääni"
 
 msgctxt "model:country.subdivision,name:se-s"
 msgid "Värmlands län"
-msgstr "Värmlands län"
+msgstr "Värmlannin lääni"
 
 msgctxt "model:country.subdivision,name:se-t"
 msgid "Örebro län"
-msgstr "Örebro län"
+msgstr "Örebron lääni"
 
 msgctxt "model:country.subdivision,name:se-u"
 msgid "Västmanlands län"
-msgstr "Västmanlands län"
+msgstr "Västmanlannin lääni"
 
 msgctxt "model:country.subdivision,name:se-w"
 msgid "Dalarnas län"
-msgstr "Dalarnas län"
+msgstr "Taalainmaan lääni"
 
 msgctxt "model:country.subdivision,name:se-x"
 msgid "Gävleborgs län"
-msgstr "Gävleborgs län"
+msgstr "Gävleborgin lääni"
 
 msgctxt "model:country.subdivision,name:se-y"
 msgid "Västernorrlands län"
-msgstr "Västernorrlands län"
+msgstr "Länsi-Norlannin lääni"
 
 msgctxt "model:country.subdivision,name:se-z"
 msgid "Jämtlands län"
-msgstr "Jämtlands län"
+msgstr "Jämtlannin lääni"
 
 msgctxt "model:country.subdivision,name:sg-01"
 msgid "Central Singapore"
@@ -19552,7 +19558,7 @@ msgstr "Arkansas"
 
 msgctxt "model:country.subdivision,name:us-as"
 msgid "American Samoa"
-msgstr "Samoa Americana"
+msgstr "Amerikan Samoa"
 
 msgctxt "model:country.subdivision,name:us-az"
 msgid "Arizona"
@@ -19560,7 +19566,7 @@ msgstr "Arizona"
 
 msgctxt "model:country.subdivision,name:us-ca"
 msgid "California"
-msgstr "California"
+msgstr "Kalifornia"
 
 msgctxt "model:country.subdivision,name:us-co"
 msgid "Colorado"
@@ -19572,7 +19578,7 @@ msgstr "Connecticut"
 
 msgctxt "model:country.subdivision,name:us-dc"
 msgid "District of Columbia"
-msgstr "District of Columbia"
+msgstr "Kolumbian piiri"
 
 msgctxt "model:country.subdivision,name:us-de"
 msgid "Delaware"
@@ -19592,7 +19598,7 @@ msgstr "Guam"
 
 msgctxt "model:country.subdivision,name:us-hi"
 msgid "Hawaii"
-msgstr "Hawaii"
+msgstr "Havaiji"
 
 msgctxt "model:country.subdivision,name:us-ia"
 msgid "Iowa"
@@ -19648,7 +19654,7 @@ msgstr "Missouri"
 
 msgctxt "model:country.subdivision,name:us-mp"
 msgid "Northern Mariana Islands"
-msgstr "Islas Mariana del Norte"
+msgstr "Pohjois-Mariaanit"
 
 msgctxt "model:country.subdivision,name:us-ms"
 msgid "Mississippi"
@@ -19660,11 +19666,11 @@ msgstr "Montana"
 
 msgctxt "model:country.subdivision,name:us-nc"
 msgid "North Carolina"
-msgstr "North Carolina"
+msgstr "Pohjois-Carolina"
 
 msgctxt "model:country.subdivision,name:us-nd"
 msgid "North Dakota"
-msgstr "North Dakota"
+msgstr "Pohjois-Dakota"
 
 msgctxt "model:country.subdivision,name:us-ne"
 msgid "Nebraska"
@@ -19716,11 +19722,11 @@ msgstr "Rhode Island"
 
 msgctxt "model:country.subdivision,name:us-sc"
 msgid "South Carolina"
-msgstr "South Carolina"
+msgstr "Etelä-Carolina"
 
 msgctxt "model:country.subdivision,name:us-sd"
 msgid "South Dakota"
-msgstr "South Dakota"
+msgstr "Etelä-Dakota"
 
 msgctxt "model:country.subdivision,name:us-tn"
 msgid "Tennessee"
@@ -19732,7 +19738,7 @@ msgstr "Texas"
 
 msgctxt "model:country.subdivision,name:us-um"
 msgid "United States Minor Outlying Islands"
-msgstr "Islas Circundantes Menores de los Estados Unidos"
+msgstr "Yhdysvaltain pienet erillissaaret"
 
 msgctxt "model:country.subdivision,name:us-ut"
 msgid "Utah"
@@ -19744,7 +19750,7 @@ msgstr "Virginia"
 
 msgctxt "model:country.subdivision,name:us-vi"
 msgid "Virgin Islands"
-msgstr "Virgin Islands"
+msgstr "Yhdysvaltain Neitsytsaaret"
 
 msgctxt "model:country.subdivision,name:us-vt"
 msgid "Vermont"
@@ -19760,7 +19766,7 @@ msgstr "Wisconsin"
 
 msgctxt "model:country.subdivision,name:us-wv"
 msgid "West Virginia"
-msgstr "West Virginia"
+msgstr "Länsi-Virginia"
 
 msgctxt "model:country.subdivision,name:us-wy"
 msgid "Wyoming"
@@ -20434,6 +20440,7 @@ msgctxt "model:country.subdivision,name:za-fs"
 msgid "Free State"
 msgstr "Free State"
 
+#, fuzzy
 msgctxt "model:country.subdivision,name:za-gt"
 msgid "Gauteng"
 msgstr "Gauteng"
@@ -20450,6 +20457,7 @@ msgctxt "model:country.subdivision,name:za-nc"
 msgid "Northern Cape"
 msgstr "Northern Cape"
 
+#, fuzzy
 msgctxt "model:country.subdivision,name:za-nl"
 msgid "Kwazulu-Natal"
 msgstr "Kwazulu-Natal"
@@ -20538,450 +20546,436 @@ msgctxt "model:country.subdivision,name:zw-mw"
 msgid "Mashonaland West"
 msgstr "Mashonaland West"
 
+#, fuzzy
 msgctxt "model:country.zip,name:"
 msgid "Zip"
-msgstr "Código postal"
+msgstr "Zip"
 
 msgctxt "model:ir.action,name:act_country_form"
 msgid "Countries"
-msgstr "Países"
+msgstr "Countries"
 
 msgctxt "model:ir.action,name:act_zip_form"
 msgid "Zip"
-msgstr "Código postal"
+msgstr "Zip"
 
 msgctxt "model:ir.ui.menu,name:menu_country_form"
 msgid "Countries"
-msgstr "Países"
+msgstr "Countries"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administration"
-msgstr "Administración"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administrative Region"
-msgstr "Región administrativa"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administrative Territory"
-msgstr "Territorio administrativo"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administrative area"
-msgstr "Área administrativa"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administrative atoll"
-msgstr "Atolón administrativo"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Arctic Region"
-msgstr "Región ártico"
+msgstr ""
 
+#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Area"
-msgstr "Área"
+msgstr "Arta"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Atoll"
-msgstr "Atolón"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous City"
-msgstr "Ciudad autónoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous Commune"
-msgstr "Comuna autónoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous District"
-msgstr "Distrito autónomo"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous Province"
-msgstr "Provincia autónoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous Region"
-msgstr "Región autónoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous communities"
-msgstr "Comunidades autónomas"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous community"
-msgstr "Comunidad autónoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous island"
-msgstr "Isla autónoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous monastic state"
-msgstr "Estado monástico autónomo"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous municipality"
-msgstr "Municipalidad autónoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous republic"
-msgstr "República autónoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous sector"
-msgstr "Sector autónomo"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous territorial unit"
-msgstr "Unidad territorial autonoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Autonomous territory"
-msgstr "Territorio autónomo"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Borough"
-msgstr "Municipio"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Canton"
-msgstr "Cantón"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Capital District"
-msgstr "Distrito capital"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Capital Metropolitan City"
-msgstr "Ciudad capital metropolitana"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Capital Territory"
-msgstr "Territorio capital"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Capital city"
-msgstr "Ciudad capital"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Chains (of islands)"
-msgstr "Cadenas (de islas)"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "City"
-msgstr "Ciudad"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "City corporation"
-msgstr "Ciudad corporativa"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "City with county rights"
-msgstr "Ciudad con derechos de condado"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Commune"
-msgstr "Comuna"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Constitutional province"
-msgstr "Provincia constitucional"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Council area"
-msgstr "Área de consejo"
+msgstr ""
 
+#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Country"
-msgstr "País"
+msgstr "Coventry"
 
+#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "County"
-msgstr "Condado"
+msgstr "Coventry"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Department"
-msgstr "Departamento"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Dependency"
-msgstr "Dependencia"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Development region"
-msgstr "Región de desarrollo"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "District"
-msgstr "Distrito"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "District council area"
-msgstr "Área de consejo de distrito"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Division"
-msgstr "División"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Economic Prefecture"
-msgstr "Prefectura económica"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Economic region"
-msgstr "Región económica"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Emirate"
-msgstr "Emiratos"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Entity"
-msgstr "Tercero"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Federal Dependency"
-msgstr "Dependencia federal"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Federal District"
-msgstr "Distrito Federal"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Federal Territories"
-msgstr "Territorios federales"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Geographical entity"
-msgstr "Entidad geográfica"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Geographical region"
-msgstr "Región geográfica"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Geographical unit"
-msgstr "Unidad geográfica"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Governorate"
-msgstr "Gobernación"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Included for completeness"
-msgstr "Incluido para completar"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Indigenous region"
-msgstr "Región indígena"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Island"
-msgstr "Isla"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Island council"
-msgstr "Consejo de la isla"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Island group"
-msgstr "Grupo de islas"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Local council"
-msgstr "Consejo local"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "London borough"
-msgstr "Municipio de Londres"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Metropolitan cities"
-msgstr "Ciudades metropolitanas"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Metropolitan department"
-msgstr "Departamento metropolitano"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Metropolitan district"
-msgstr "Distrito metropolitano"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Metropolitan region"
-msgstr "Región metropolitana"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Municipalities"
-msgstr "Municipalidades"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Municipality"
-msgstr "Municipalidad"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Nation"
-msgstr "Nación"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Oblast"
-msgstr "Oblast"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Outlying area"
-msgstr "Área externa"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Overseas department"
-msgstr "Departamento de ultramar"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Overseas region"
-msgstr "Región de ultramar"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Overseas region/department"
-msgstr "región/departamento de ultramar"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Overseas territorial collectivity"
-msgstr "Territorio colectivo de ultramar"
+msgstr ""
 
+#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Parish"
-msgstr "Parroquia"
+msgstr "Paris"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Popularates"
-msgstr "Popularates"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Prefecture"
-msgstr "Prefectura"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Principality"
-msgstr "Principalidad"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Province"
-msgstr "Provincia"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Quarter"
-msgstr "Barrio"
+msgstr ""
 
+#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Rayon"
-msgstr "Rayón"
+msgstr "Rayong"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Region"
-msgstr "Región"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Regional council"
-msgstr "Consejo regional"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Republic"
-msgstr "República"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Republican City"
-msgstr "Ciudad republicana"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Self-governed part"
-msgstr "Autonoma"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Special District"
-msgstr "Distrito especial"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Special Municipality"
-msgstr "Municipalidad especial"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Special Region"
-msgstr "Región especial"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Special administrative region"
-msgstr "Región administrativa especial"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Special city"
-msgstr "Ciudad especial"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Special island authority"
-msgstr "Autoridad especial de isla"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Special zone"
-msgstr "Zona especial"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "State"
-msgstr "Estado"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Territorial unit"
-msgstr "Unidad territorial"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Territory"
-msgstr "Territorio"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Town council"
-msgstr "Consejo del pueblo"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Two-tier county"
-msgstr "Condado de dos niveles"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Union territory"
-msgstr "Unión territorial"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Unitary authority"
-msgstr "Autoridad unitaria"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Unitary authority (england)"
-msgstr "Autoridad unitaria (Inglaterra)"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Unitary authority (wales)"
-msgstr "Autoridad unitaria (Gales)"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "zone"
-msgstr "zona"
-
-msgctxt "view:country.country:"
-msgid "Countries"
-msgstr "Países"
-
-msgctxt "view:country.country:"
-msgid "Country"
-msgstr "País"
-
-msgctxt "view:country.subdivision:"
-msgid "Subdivision"
-msgstr "Subdivisión"
-
-msgctxt "view:country.subdivision:"
-msgid "Subdivisions"
-msgstr "Subdivisiones"
-
-msgctxt "view:country.zip:"
-msgid "Zip"
-msgstr "Código postal"
+msgstr ""

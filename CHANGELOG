@@ -1,5 +1,7 @@
-Version 5.0.1 - 2019-02-19
+Version 5.2.0 - 2019-05-06
 * Bug fixes (see mercurial logs for details)
+* Remove starting wildcard when searching on codes and numbers
+* Add active field on country and subdivision
 
 Version 5.0.0 - 2018-10-01
 * Bug fixes (see mercurial logs for details)

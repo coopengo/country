@@ -1,12 +1,13 @@
 # This file is part of Tryton.  The COPYRIGHT file at the top level of
 # this repository contains the full copyright notices and license terms.
-from trytond.model import ModelView, ModelSQL, fields
+from trytond.model import ModelView, ModelSQL, DeactivableMixin, fields
 from trytond.pyson import Eval
+from trytond.tools import lstrip_wildcard
 
 __all__ = ['Country', 'Subdivision', 'Zip']
 
 
-class Country(ModelSQL, ModelView):
+class Country(DeactivableMixin, ModelSQL, ModelView):
     'Country'
     __name__ = 'country.country'
     name = fields.Char('Name', required=True, translate=True,
@@ -40,11 +41,14 @@ class Country(ModelSQL, ModelView):
 
     @classmethod
     def search_rec_name(cls, name, clause):
+        code_value = clause[2]
+        if clause[1].endswith('like'):
+            code_value = lstrip_wildcard(clause[2])
         return ['OR',
             ('name',) + tuple(clause[1:]),
-            ('code',) + tuple(clause[1:]),
-            ('code3',) + tuple(clause[1:]),
-            ('code_numeric',) + tuple(clause[1:]),
+            ('code', clause[1], code_value) + tuple(clause[3:]),
+            ('code3', clause[1], code_value) + tuple(clause[3:]),
+            ('code_numeric', clause[1], code_value) + tuple(clause[3:]),
             ]
 
     @classmethod
@@ -69,7 +73,7 @@ class Country(ModelSQL, ModelView):
         super(Country, cls).write(*args)
 
 
-class Subdivision(ModelSQL, ModelView):
+class Subdivision(DeactivableMixin, ModelSQL, ModelView):
     "Subdivision"
     __name__ = 'country.subdivision'
     country = fields.Many2One('country.country', 'Country',
