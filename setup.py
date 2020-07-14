@@ -44,6 +44,12 @@ if minor_version % 2:
     download_url = (
         'hg+http://hg.tryton.org/modules/%s#egg=%s-%s' % (
             name[8:], name, version))
+local_version = []
+for build in ['CI_BUILD_NUMBER', 'CI_JOB_NUMBER', 'CI_JOB_ID']:
+    if os.environ.get(build):
+        local_version.append(os.environ[build])
+if local_version:
+    version += '+' + '.'.join(local_version)
 
 requires = []
 for dep in info.get('depends', []):
@@ -51,6 +57,7 @@ for dep in info.get('depends', []):
         requires.append(get_require_version('trytond_%s' % dep))
 requires.append(get_require_version('trytond'))
 
+tests_require = [get_require_version('proteus'), 'pycountry']
 dependency_links = []
 if minor_version % 2:
     dependency_links.append('https://trydevpi.tryton.org/')
@@ -72,14 +79,14 @@ setup(name=name,
     keywords='tryton country',
     package_dir={'trytond.modules.country': '.'},
     packages=(
-        ['trytond.modules.country'] +
-        ['trytond.modules.country.%s' % p for p in find_packages()]
+        ['trytond.modules.country']
+        + ['trytond.modules.country.%s' % p for p in find_packages()]
         ),
     package_data={
         'trytond.modules.country': (info.get('xml', [])
-            + ['tryton.cfg', 'view/*.xml', 'locale/*.po', 'icons/*.svg']),
+            + ['tryton.cfg', 'view/*.xml', 'locale/*.po', 'icons/*.svg',
+                'tests/*.rst']),
         },
-    scripts=['scripts/trytond_import_zip'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Plugins',
@@ -88,7 +95,8 @@ setup(name=name,
         'Intended Audience :: Financial and Insurance Industry',
         'Intended Audience :: Legal Industry',
         'Intended Audience :: Manufacturing',
-        'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
+        'License :: OSI Approved :: '
+        'GNU General Public License v3 or later (GPLv3+)',
         'Natural Language :: Bulgarian',
         'Natural Language :: Catalan',
         'Natural Language :: Chinese (Simplified)',
@@ -99,6 +107,7 @@ setup(name=name,
         'Natural Language :: French',
         'Natural Language :: German',
         'Natural Language :: Hungarian',
+        'Natural Language :: Indonesian',
         'Natural Language :: Italian',
         'Natural Language :: Persian',
         'Natural Language :: Polish',
@@ -112,6 +121,7 @@ setup(name=name,
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy',
         'Topic :: Office/Business',
@@ -120,6 +130,7 @@ setup(name=name,
     python_requires='>=3.5',
     install_requires=requires,
     extras_require={
+        'data': ['pycountry', get_require_version('proteus')],
         'GeoNames': [get_require_version('proteus')],
         },
     dependency_links=dependency_links,
@@ -127,7 +138,11 @@ setup(name=name,
     entry_points="""
     [trytond.modules]
     country = trytond.modules.country
-    """,
+    [console_scripts]
+    trytond_import_countries = trytond.modules.country.scripts.import_countries:run [data]
+    trytond_import_zip = trytond.modules.country.scripts.import_zip:run [GeoNames]
+    """,  # noqa: E501
     test_suite='tests',
     test_loader='trytond.test_loader:Loader',
+    tests_require=tests_require,
     )
