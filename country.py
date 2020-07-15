@@ -47,12 +47,6 @@ class Country(DeactivableMixin, ModelSQL, ModelView):
         table.not_null_action('code', 'remove')
 
         # Migration from 5.2: remove country data
-        cursor.execute(*data.update(
-                columns=[data.module],
-                values=['country_cog'],
-                where=((data.module == 'country')
-                    & (data.model == cls.__name__)
-                    & (data.fs_id == 'fr'))))
         cursor.execute(*data.delete(where=(data.module == 'country')
                 & (data.model == cls.__name__)))
 
@@ -228,12 +222,6 @@ class Subdivision(DeactivableMixin, ModelSQL, ModelView):
         super().__register__(module_name)
 
         # Migration from 5.2: remove country data
-        cursor.execute(*data.update(
-                columns=[data.module],
-                values=['country_cog'],
-                where=((data.module == 'country')
-                    & (data.model == cls.__name__)
-                    & data.fs_id.like('fr-%'))))
         cursor.execute(*data.delete(where=(data.module == 'country')
                 & (data.model == cls.__name__)))
 
