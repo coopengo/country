@@ -36,7 +36,7 @@ def clean(code):
 
 def fetch(code):
     sys.stderr.write('Fetching')
-    url = 'http://download.geonames.org/export/zip/%s.zip' % code
+    url = 'https://download.geonames.org/export/zip/%s.zip' % code
     responce = urlopen(url)
     data = responce.read()
     with zipfile.ZipFile(BytesIO(data)) as zf:
@@ -81,10 +81,12 @@ def import_(data):
     for row in pbar(list(csv.DictReader(
                     f, fieldnames=_fieldnames, delimiter='\t'))):
         country = get_country(row['country'])
-        subdivision = get_subdivision(row['country'], row['code1'])
-        zips.append(
-            Zip(country=country, subdivision=subdivision, zip=row['postal'],
-            city=row['place']))
+        for code in ['code1', 'code2', 'code3']:
+            subdivision = get_subdivision(row['country'], row[code])
+            if code == 'code1' or subdivision:
+                zips.append(
+                    Zip(country=country, subdivision=subdivision,
+                        zip=row['postal'], city=row['place']))
     Zip.save(zips)
 
 
@@ -94,7 +96,10 @@ _fieldnames = ['country', 'postal', 'place', 'name1', 'code1',
 
 def main(database, codes, config_file=None):
     config.set_trytond(database, config_file=config_file)
+    do_import(codes)
 
+
+def do_import(codes):
     for code in codes:
         print(code, file=sys.stderr)
         code = code.upper()
@@ -102,7 +107,7 @@ def main(database, codes, config_file=None):
         import_(fetch(code))
 
 
-if __name__ == '__main__':
+def run():
     parser = ArgumentParser()
     parser.add_argument('-d', '--database', dest='database')
     parser.add_argument('-c', '--config', dest='config_file',
@@ -113,3 +118,7 @@ if __name__ == '__main__':
     if not args.database:
         parser.error('Missing database')
     main(args.database, args.codes, args.config_file)
+
+
+if __name__ == '__main__':
+    run()

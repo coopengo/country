@@ -4,77 +4,75 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "field:country.country,code3:"
 msgid "3-letters Code"
-msgstr ""
+msgstr "Kode 3 huruf"
 
 msgctxt "field:country.country,code:"
 msgid "Code"
-msgstr "Codice"
+msgstr "Kode"
 
 msgctxt "field:country.country,code_numeric:"
 msgid "Numeric Code"
-msgstr "Codice numerico"
+msgstr "Kode Angka"
 
 msgctxt "field:country.country,name:"
 msgid "Name"
-msgstr "Nome"
+msgstr "Nama"
 
-#, fuzzy
 msgctxt "field:country.country,subdivisions:"
 msgid "Subdivisions"
-msgstr "Divisione"
+msgstr ""
 
 msgctxt "field:country.subdivision,code:"
 msgid "Code"
-msgstr "Codice"
+msgstr "Kode"
 
 msgctxt "field:country.subdivision,country:"
 msgid "Country"
-msgstr "Paese"
+msgstr "Negara"
 
 msgctxt "field:country.subdivision,name:"
 msgid "Name"
-msgstr "Nome"
+msgstr "Nama"
 
 msgctxt "field:country.subdivision,parent:"
 msgid "Parent"
-msgstr "Padre"
+msgstr "Induk"
 
 msgctxt "field:country.subdivision,type:"
 msgid "Type"
-msgstr "Tipo"
+msgstr "Jenis"
 
 msgctxt "field:country.zip,city:"
 msgid "City"
-msgstr "Città"
+msgstr "Kota"
 
 msgctxt "field:country.zip,country:"
 msgid "Country"
-msgstr "Paese"
+msgstr "Negara"
 
-#, fuzzy
 msgctxt "field:country.zip,subdivision:"
 msgid "Subdivision"
-msgstr "Divisione"
+msgstr ""
 
 msgctxt "field:country.zip,zip:"
 msgid "Zip"
-msgstr "Zip"
+msgstr "Kode Pos"
 
 msgctxt "help:country.country,code3:"
 msgid "The 3 chars ISO country code."
-msgstr ""
+msgstr "3 karakter kode negara ISO."
 
 msgctxt "help:country.country,code:"
 msgid "The 2 chars ISO country code."
-msgstr ""
+msgstr "2 karakter kode negara ISO."
 
 msgctxt "help:country.country,code_numeric:"
 msgid "The ISO numeric country code."
-msgstr ""
+msgstr "Kode negara numerik ISO."
 
 msgctxt "help:country.country,name:"
 msgid "The main identifier of the country."
-msgstr "L'identificatore principale del paese."
+msgstr ""
 
 msgctxt "help:country.subdivision,code:"
 msgid "The ISO code of the subdivision."
@@ -106,38 +104,35 @@ msgstr ""
 
 msgctxt "model:country.country,name:"
 msgid "Country"
-msgstr "Paese"
+msgstr "Negara"
 
-#, fuzzy
 msgctxt "model:country.subdivision,name:"
 msgid "Subdivision"
-msgstr "Divisione"
+msgstr ""
 
 msgctxt "model:country.zip,name:"
 msgid "Zip"
-msgstr "Zip"
+msgstr ""
 
-#, fuzzy
 msgctxt "model:ir.action,name:act_country_form"
 msgid "Countries"
-msgstr "Countries"
+msgstr ""
 
 msgctxt "model:ir.action,name:act_zip_form"
 msgid "Zip"
-msgstr "Zip"
+msgstr ""
 
-#, fuzzy
 msgctxt "model:ir.ui.menu,name:menu_country_form"
 msgid "Countries"
-msgstr "Countries"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administration"
-msgstr "Amministrazione"
+msgstr "Administrasi"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administrative Region"
-msgstr ""
+msgstr "Wilayah Administratif"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Administrative Territory"
@@ -155,10 +150,9 @@ msgctxt "selection:country.subdivision,type:"
 msgid "Arctic Region"
 msgstr ""
 
-#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Area"
-msgstr "Arta"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Atoll"
@@ -250,7 +244,7 @@ msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "City"
-msgstr "Città"
+msgstr "Kota"
 
 msgctxt "selection:country.subdivision,type:"
 msgid "City corporation"
@@ -274,21 +268,19 @@ msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Country"
-msgstr "Paese"
+msgstr "Negara"
 
-#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "County"
-msgstr "Paese"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Department"
 msgstr ""
 
-#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Dependency"
-msgstr "Dipendenza"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Development region"
@@ -430,10 +422,9 @@ msgctxt "selection:country.subdivision,type:"
 msgid "Overseas territorial collectivity"
 msgstr ""
 
-#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Parish"
-msgstr "Parigi"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Popularates"
@@ -455,10 +446,9 @@ msgctxt "selection:country.subdivision,type:"
 msgid "Quarter"
 msgstr ""
 
-#, fuzzy
 msgctxt "selection:country.subdivision,type:"
 msgid "Rayon"
-msgstr "Rayong"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Region"
@@ -510,7 +500,7 @@ msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "State"
-msgstr "Stato"
+msgstr ""
 
 msgctxt "selection:country.subdivision,type:"
 msgid "Territorial unit"
