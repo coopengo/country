@@ -6,9 +6,9 @@ Imports::
 
     >>> from proteus import Model
     >>> from trytond.tests.tools import activate_modules
-    >>> from trytond.modules.country.scripts import import_countries, import_zip
+    >>> from trytond.modules.country.scripts import import_countries, import_postal_codes
 
-Install currency::
+Activate modules::
 
     >>> config = activate_modules('country')
 
@@ -20,6 +20,6 @@ Import countries::
 
     >>> import_countries.do_import()
 
-Import ZIP::
+Import postal codes::
 
-    >>> import_zip.do_import(['us'])
+    >>> import_postal_codes.do_import(['us'])
