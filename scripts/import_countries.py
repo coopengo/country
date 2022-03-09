@@ -100,6 +100,8 @@ def update_subdivisions(countries, subdivisions):
     Subdivision = Model.get('country.subdivision')
 
     records = []
+    existing_subdiv_types = set(x[0] for x in
+        Subdivision._fields['type']['selection'])
     for subdivision in _progress(pycountry.subdivisions):
         code = subdivision.code
         country_code = subdivision.country_code
@@ -108,7 +110,9 @@ def update_subdivisions(countries, subdivisions):
         else:
             record = Subdivision(code=code, country=countries[country_code])
         record.name = _remove_forbidden_chars(subdivision.name)
-        record.type = subdivision.type.lower()
+        sub_type = subdivision.type.lower()
+        record.type = sub_type if sub_type in existing_subdiv_types \
+            else 'unknown'
         records.append(record)
 
     Subdivision.save(records)
