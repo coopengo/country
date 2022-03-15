@@ -535,9 +535,5 @@ msgid "Unitary authority (wales)"
 msgstr "Autorité unitaire (pays de galles)"
 
 msgctxt "selection:country.subdivision,type:"
-msgid "Unknown"
-msgstr "Inconnu"
-
-msgctxt "selection:country.subdivision,type:"
 msgid "zone"
 msgstr "Zone"

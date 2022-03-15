@@ -197,7 +197,6 @@ class Subdivision(DeactivableMixin, ModelSQL, ModelView):
         ('unitary authority', 'Unitary authority'),
         ('unitary authority (england)', 'Unitary authority (england)'),
         ('unitary authority (wales)', 'Unitary authority (wales)'),
-        ('unknown', 'Unknown'),
         ('zone', 'zone'),
         ], 'Type', required=True)
     parent = fields.Many2One('country.subdivision', 'Parent',
