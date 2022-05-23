@@ -66,7 +66,7 @@ for dep in info.get('depends', []):
         requires.append(get_require_version('trytond_%s' % dep))
 requires.append(get_require_version('trytond'))
 
-tests_require = [get_require_version('proteus'), 'pycountry']
+tests_require = [get_require_version('proteus'), 'pycountry<=20.7.3']
 dependency_links = []
 if minor_version % 2:
     dependency_links.append(
@@ -142,7 +142,7 @@ setup(name=name,
     python_requires='>=3.6',
     install_requires=requires,
     extras_require={
-        'data': ['pycountry', get_require_version('proteus')],
+        'data': ['pycountry<=20.7.3', get_require_version('proteus')],
         'GeoNames': [get_require_version('proteus')],
         },
     dependency_links=dependency_links,
@@ -152,7 +152,7 @@ setup(name=name,
     country = trytond.modules.country
     [console_scripts]
     trytond_import_countries = trytond.modules.country.scripts.import_countries:run [data]
-    trytond_import_postal_code = trytond.modules.country.scripts.import_postal_codes:run [GeoNames]
+    trytond_import_postal_codes = trytond.modules.country.scripts.import_postal_codes:run [GeoNames]
     """,  # noqa: E501
     test_suite='tests',
     test_loader='trytond.test_loader:Loader',
